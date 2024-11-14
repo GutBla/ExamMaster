@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/MSI PULSE/Documents/Examen de Grado/ExamMaster/database.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1513"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,8:mainPregunta"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Pregunta" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="89"/><column index="2" value="300"/><column index="3" value="300"/><column index="4" value="300"/><column index="5" value="300"/><column index="6" value="300"/><column index="7" value="104"/><column index="8" value="116"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">INSERT INTO Pregunta (Id_Pregunta, Pregunta, Opciones_A, Opciones_B, Opciones_C, Opciones_D, Opciones_E, Opcion_Correcta)
+VALUES
+(2165984, '¿Cómo funciona un virus de archivo?', 
+ 'Infecta archivos con extensiones .exe y .com', 
+ 'Propaga un resfrío', 
+ 'Elimina los archivos', 
+ 'Es parte de un resfrío', 
+ NULL, 
+ 'A'),
+
+(2165985, '¿Cómo funciona el virus de macro?', 
+ 'Infecta archivos creados con determinadas aplicaciones como documentos de texto, bases de datos, hojas de cálculo, etc.', 
+ 'Solo en Excel', 
+ 'Solo en Word', 
+ 'Solo al escribir código en Visual Basic', 
+ NULL, 
+ 'A'),
+
+(2165986, '¿Cómo funcionan los caballos de troya?', 
+ 'Se introducen al sistema bajo una apariencia diferente a la de su objetivo final, como el virus Madonna, por ejemplo', 
+ 'Es una raza de caballo', 
+ 'Es un juego de caballos', 
+ 'Es una historia antigua', 
+ NULL, 
+ 'A'),
+
+(2165987, 'Ejemplos de procesadores electrónicos de texto', 
+ 'OpenOffice, AmiPro, Open WordPerfect, WordPerfect', 
+ 'iOS, Android', 
+ 'MS-DOS, Windows, Fedora', 
+ 'Call Of Duty, StarCraft, Among Us', 
+ NULL, 
+ 'A'),
+
+(2165988, '¿Cuáles son las aplicaciones que necesitan internet para funcionar?', 
+ 'Correo electrónico, chat, blogs, foros de discusión, redes sociales', 
+ 'Word, Excel, Paint', 
+ 'MS-DOS', 
+ 'Notepad', 
+ NULL, 
+ 'A'),
+
+(2165989, '¿En qué año fue creada la web y por quién?', 
+ 'El 12 de marzo de 1989, el investigador británico Tim Berners-Lee describió en un informe para el CERN el protocolo para la transferencia de hipertextos, lo que un año después sería la World Wide Web', 
+ 'El 29 de febrero de 1996', 
+ '31 de septiembre de 1989', 
+ '1ro de enero de 1980', 
+ NULL, 
+ 'A');
+
+ -------------------
+ INSERT INTO Pregunta (Id_Pregunta, Pregunta, Opciones_A, Opciones_B, Opciones_C, Opciones_D, Opciones_E, Opcion_Correcta)
+VALUES
+(2165990, '¿Qué significa WWW?', 
+ 'Wild World of Water', 
+ 'World Wide Web', 
+ 'No tiene un significado', 
+ 'Es parte de un logo informático', 
+ NULL, 
+ 'B'),
+
+(2165991, '¿En qué año nace la primera COMPAQ portátil o laptop, 100% compatible?', 
+ 'Fue presentada en noviembre de 1982 y su distribución inició en enero de 1983 a un precio de 3,590 dólares', 
+ 'Septiembre 20, 1989 (Original); Octubre 15, 1990 (Retroiluminación)', 
+ 'El MacBook Pro nace en el 2006 durante las MacWorld Expo, presentado por Steve Jobs', 
+ 'La HP-110, la primera PC portátil de Hewlett Packard, salió al mercado en 1984 con un procesador de 16 bits, 272 KB de RAM y software HP Personal Application Manager', 
+ NULL, 
+ 'A'),
+
+(2165992, '¿Qué está formando el software de sistemas?', 
+ 'Está formado por programas que se encargan de controlar, coordinar y gestionar todo el hardware', 
+ 'Por el Office', 
+ 'La impresora y el teclado', 
+ 'Por el directorio de Mis Documentos', 
+ NULL, 
+ 'A'),
+
+(2165993, '¿Qué es un ícono?', 
+ 'Se utiliza para representar elementos tales como computadoras, unidades de disco, impresoras, aplicaciones, archivos o la papelera de reciclaje', 
+ 'Es un programa', 
+ 'Es un logo', 
+ 'Es una marca', 
+ NULL, 
+ 'A'),
+
+(2165994, '¿Cuál es la función de la computadora host?', 
+ 'Es un servidor de red que proporciona servicios a otras computadoras que se conectan a él', 
+ 'Es la persona que atiende en la oficina', 
+ 'Es un equipo que se instaló primero', 
+ 'Es una computadora nueva', 
+ NULL, 
+ 'A'),
+
+(2165995, '¿Qué es un correo electrónico?', 
+ 'Es un servicio para intercambiar mensajes a través de una red de computadoras conectadas a Internet', 
+ 'Es una manera de enviar cartas', 
+ 'Es un juego en una computadora', 
+ 'Es una nueva aplicación', 
+ NULL, 
+ 'A'),
+
+(2165996, '¿Qué es un buscador?', 
+ 'Es la herramienta que permite localizar información en Internet a partir de palabras introducidas al buscador', 
+ 'Es un programa para buscar información en una computadora', 
+ 'Es una herramienta en un procesador de texto', 
+ 'Es un juego', 
+ NULL, 
+ 'A'),
+
+(2165997, '¿Qué son los gadgets?', 
+ 'Son aplicaciones especiales en miniatura que se pueden situar sobre el escritorio de Windows', 
+ 'Son aparatos tecnológicos', 
+ 'Son pequeñas computadoras', 
+ 'Son pequeños robots', 
+ NULL, 
+ 'A'),
+
+(2165998, 'Analizando la naturaleza de la información según los niveles de decisión, se puede afirmar que en las decisiones estratégicas no posee un alto grado de actualidad y tiene un horizonte temporal futuro.', 
+ 'Totalmente verdadero', 
+ 'Totalmente falso', 
+ 'Ni falso ni verdadero', 
+ 'Parcialmente correcto', 
+ NULL, 
+ 'A'),
+
+(2165999, '¿Qué es un sistema?', 
+ 'Un grupo de componentes interrelacionados entre sí para el logro de un objetivo', 
+ 'Una computadora', 
+ 'Un programa', 
+ 'No hay una respuesta para la pregunta', 
+ NULL, 
+ 'A');
+
+ ---------------------
+INSERT INTO Pregunta (Id_Pregunta, Pregunta, Opciones_A, Opciones_B, Opciones_C, Opciones_D, Opciones_E, Opcion_Correcta)
+VALUES
+(2166000, '¿Cuáles son los componentes de un sistema?', 
+ 'Entrada, proceso, retroalimentación, control, salida', 
+ 'Pantalla, teclado, ratón y CPU', 
+ 'Disco y disco duro', 
+ 'Unidades ópticas e impresoras', 
+ NULL, 
+ 'A'),
+
+(2166001, '¿En qué consiste el control?', 
+ 'Es el componente que supervisa y evalúa la retroalimentación, y realiza los ajustes necesarios a los componentes de entrada y procesamiento para garantizar que se genere la salida apropiada', 
+ 'Es una herramienta del computador', 
+ 'Es un programa del sistema operativo', 
+ 'Es un grupo antagonista en una serie de espías en TV de los 80s', 
+ NULL, 
+ 'A'),
+
+(2166002, '¿Cuáles son los recursos de un sistema de información?', 
+ 'Recursos humanos, hardware, software, datos, redes', 
+ 'Tiempo y dinero', 
+ 'Software y hardware', 
+ 'Nada de lo anterior', 
+ NULL, 
+ 'A');
+
+UPDATE Pregunta 
+SET Pregunta = '¿Cuáles son los recursos de un sistema de información?', 
+    Opciones_A = 'Recursos Humanos, Hardware, Software, Datos, redes', 
+    Opciones_B = 'Tiempo y dinero', 
+    Opciones_C = 'Software y hardware', 
+    Opciones_D = 'Nada de lo anteriormente mencionado', 
+    Opcion_Correcta = 'A'
+WHERE Id_Pregunta = 2166002;
+
+UPDATE Pregunta 
+SET Pregunta = '¿Cuáles son las categorías en los sistemas de información?', 
+    Opciones_A = 'De procesamiento de transacciones, de control de procesos, de colaboración empresarial', 
+    Opciones_B = 'De apoyo a las operaciones, de apoyo gerencial', 
+    Opciones_C = 'Exadecimal, binario', 
+    Opciones_D = 'Multicapa y monolítico', 
+    Opcion_Correcta = 'B'
+WHERE Id_Pregunta = 2166006;
+
+--------------------
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>

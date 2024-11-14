@@ -1,0 +1,3912 @@
+[
+    {
+        "Id_Pregunta": 2165919,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Oracle Database",
+        "Opciones_B": "Microsoft Word",
+        "Opciones_C": "SICOES",
+        "Opciones_D": "SIGMA",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione los Sistemas OAS."
+    },
+    {
+        "Id_Pregunta": 2165920,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Modulo de Inteligencia Superior",
+        "Opciones_B": "Management Information System",
+        "Opciones_C": "Todos",
+        "Opciones_D": "Ninguna",
+        "Opciones_E": null,
+        "Pregunta": "¿Que es un sistema MIS según el libro de Kendall?"
+    },
+    {
+        "Id_Pregunta": 2165921,
+        "Opcion_Correcta": "E",
+        "Opciones_A": "Los usuarios tienen la posibilidad de acceder las 24 horas del día.",
+        "Opciones_B": "Se puede mejorar la utilidad y capacidad de uso del diseño de la interfaz",
+        "Opciones_C": "Aumenta el número de usuarios que se enteran de la disponibilidad de un servicio, producto, industria, persona o grupo",
+        "Opciones_D": "Se puede expandir un sistema globalmente en vez de permanecer en el entorno local, con lo cual se puede establecer contacto con personas en ubicaciones remotas sin preocuparse por la zona horaria en la",
+        "Opciones_E": "Todos",
+        "Pregunta": "Ventajas de montar aplicaciones en la Web"
+    },
+    {
+        "Id_Pregunta": 2165922,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Consultor",
+        "Opciones_B": "Experto de Soporte",
+        "Opciones_C": "Agente de Cambio",
+        "Opciones_D": "Todos",
+        "Opciones_E": null,
+        "Pregunta": "¿Que Roles puede desempeñar el Analista de Sistemas?"
+    },
+    {
+        "Id_Pregunta": 2165923,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Incluyen el procesamiento de transacciones",
+        "Opciones_B": "Requieren que las personas, el software y el hardware funcionen en concierto",
+        "Opciones_C": "Incluyen los procesos de análisis y toma de decisiones",
+        "Opciones_D": "Todas",
+        "Opciones_E": null,
+        "Pregunta": "¿Que afirmaciones son correctas para los Sistemas de información administrativa (MIS)?"
+    },
+    {
+        "Id_Pregunta": 2165924,
+        "Opcion_Correcta": "E",
+        "Opciones_A": "Tener experiencia en modelado de sistemas",
+        "Opciones_B": "Tener conocimientos de contabilidad, inventarios y distribución de bienes y servicios",
+        "Opciones_C": "Buena personalidad y que se acople bien a nosotros",
+        "Opciones_D": "Saber acoplarse con otros.",
+        "Opciones_E": "Todas",
+        "Pregunta": "Escoja las cualidades personales que son útiles para el Analista de Sistemas"
+    },
+    {
+        "Id_Pregunta": 2165925,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Codificar probar escuchar y diseñar",
+        "Opciones_B": "Comunicación, simpleza, retroalimentación, valentía",
+        "Opciones_C": "Planificación, Desarrollo, Deploy, Experiencia del Usuario",
+        "Opciones_D": "Planificación, Desarrollo, Deploy, Experiencia del usuario",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son las cuatro prácticas básicas de la metodología ágil?"
+    },
+    {
+        "Id_Pregunta": 2165926,
+        "Opcion_Correcta": "E",
+        "Opciones_A": "La iniciación de proyectos",
+        "Opciones_B": "La determinación de la viabilidad de un proyecto",
+        "Opciones_C": "La programación de proyectos",
+        "Opciones_D": "Planeación y administración de las actividades",
+        "Opciones_E": "Todas",
+        "Pregunta": "¿Cuáles son los cinco aspectos fundamentales de un proyecto?, seleccionar la respuesta correcta."
+    },
+    {
+        "Id_Pregunta": 2165927,
+        "Opcion_Correcta": "E",
+        "Opciones_A": "Respaldo de los directivos de la organización",
+        "Opciones_B": "Periodo adecuado de compromiso para terminar el proyecto",
+        "Opciones_C": "La posibilidad de mejorar la consecución de las metas organizacionales",
+        "Opciones_D": "Factibilidad en cuanto a recursos para el analista de sistemas y la organización",
+        "Opciones_E": "Todos",
+        "Pregunta": "¿Cuales son los criterios para la selección de proyectos de sistemas?"
+    },
+    {
+        "Id_Pregunta": 2165928,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es el estudio realizado para conocer la posibilidad de actualizar o incrementar los recursos técnicos actuales de tal manera que se satisfagan los requerimientos bajo consideración.",
+        "Opciones_B": "Ver si funciona el sistema",
+        "Opciones_C": "Análisis del Técnico de Sistemas",
+        "Opciones_D": "Características técnicas del sistema",
+        "Opciones_E": null,
+        "Pregunta": "La viabilidad Técnica es:"
+    },
+    {
+        "Id_Pregunta": 2165929,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es la que depende de los recursos humanos disponibles para el proyecto e implica determinar si el sistema funcionará utilizado una vez que se instale.",
+        "Opciones_B": "Que el sistema funcione correctamente",
+        "Opciones_C": "Que la operación esté correcta",
+        "Opciones_D": "Que el área operativa esté completa",
+        "Opciones_E": null,
+        "Pregunta": "La viabilidad operacional es:"
+    },
+    {
+        "Id_Pregunta": 2165930,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es donde se organizan el código en unidades denominadas o llamadas clases, de las cuales se crean objetos que se relacionan entre sí, para los objetivos de aplicaciones.",
+        "Opciones_B": "Se utiliza Orientado a Objetos ya que esto nos permite construir un sistema más estructurado y completo gracias a la utilización de cosas vistas desde el punto de vista real en el mundo.",
+        "Opciones_C": "Es la utilización de objetos abstraídos de la vida real y sus interrelaciones para la construcción de soluciones informáticas a problemas, convirtiéndose las mismas en aplicaciones o software.",
+        "Opciones_D": "Es recomendada la utilización del paradigma orientado a objetos ya que gracias a esta, mediante la utilización de objetos, se puede diseñar e implementar programas o sistemas de mayor complejidad y es",
+        "Opciones_E": null,
+        "Pregunta": "¿Por qué utilizar Orientado a Objetos o cuál es el paradigma Orientado a Objetos?"
+    },
+    {
+        "Id_Pregunta": 2165931,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Los atributos se representan debajo en la caja de representación de la clase",
+        "Opciones_B": "Las interfaces se representan mediante carpetas",
+        "Opciones_C": "Los atributos se representan en medio en la caja de representación de la clase",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es cierto, en los diagramas de clases?"
+    },
+    {
+        "Id_Pregunta": 2165932,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Los objetos son módulos que contienen sólo datos, de cualquier tipo",
+        "Opciones_B": "Los objetos son módulos que contienen los datos y las instrucciones u operaciones que manipulan esos datos",
+        "Opciones_C": "Los objetos pueden ser tratados como cualquier otro dato mediante un lenguaje procedural",
+        "Opciones_D": "No existe una concepción dinámica del objeto como una entidad que exista en tiempo de ejecución",
+        "Opciones_E": null,
+        "Pregunta": "En programación orientada a objetos:"
+    },
+    {
+        "Id_Pregunta": 2165933,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un patrón de diseño orientado a objetos, en el que se suministran objetos a una clase en lugar de ser la propia clase la que cree dichos objetos.",
+        "Opciones_B": "Aumenta el acoplamiento entre los módulos.",
+        "Opciones_C": "Facilita la detección de errores (debugging) en tiempo de ejecución",
+        "Opciones_D": "Es un patrón de ataque que introduce (“inyecta”) código malicioso para cambiar el curso de ejecución.",
+        "Opciones_E": null,
+        "Pregunta": "En el ámbito del diseño de sistemas software, la inyección de dependencias"
+    },
+    {
+        "Id_Pregunta": 2165934,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Java",
+        "Opciones_B": "C#",
+        "Opciones_C": "FORTRAN",
+        "Opciones_D": "C++",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de los siguientes lenguajes NO es un lenguaje que sigue el modelo de orientación a objetos basados en clases?"
+    },
+    {
+        "Id_Pregunta": 2165935,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Polimorfismo, encapsulación y herencia",
+        "Opciones_B": "Reusabilidad, modulación y herencia",
+        "Opciones_C": "Herencia, polimorfismo",
+        "Opciones_D": "Reusabilidad, abstracción y herencia",
+        "Opciones_E": null,
+        "Pregunta": "Señale de entre las siguientes, la opción incorrecta en cuanto a las características del principio del modelado orientado a objetos"
+    },
+    {
+        "Id_Pregunta": 2165936,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Abstracción",
+        "Opciones_B": "Encapsulación",
+        "Opciones_C": "Independencia",
+        "Opciones_D": "Modularidad",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de los siguientes no es una propiedad del modelo orientado a objetos?"
+    },
+    {
+        "Id_Pregunta": 2165937,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Polimorfismo",
+        "Opciones_B": "Herencia",
+        "Opciones_C": "Reusabilidad",
+        "Opciones_D": "Encapsulación",
+        "Opciones_E": null,
+        "Pregunta": "En ADOO (Análisis y Diseño Orientado a Objetos), el término utilizado para expresar que los datos de un objeto solamente pueden ser manipulados por medio de mensajes y métodos predefinidos es:"
+    },
+    {
+        "Id_Pregunta": 2165938,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es la medida en la que las tareas que desempeña una clase están estrechamente relacionadas.",
+        "Opciones_B": "Los operadores que aparecen en la interfaz son los únicos que pueden acceder o alterar los datos internos a la clase.",
+        "Opciones_C": "Ninguna",
+        "Opciones_D": "Todas",
+        "Opciones_E": null,
+        "Pregunta": "En orientación a objetos, ¿cómo se define la cohesión fuerte?"
+    },
+    {
+        "Id_Pregunta": 2165939,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Cuando los datos son procesados y analizados, decimos que se trata de información.",
+        "Opciones_B": "Si son lo mismo",
+        "Opciones_C": "Nada de lo anterior",
+        "Opciones_D": "Datos e información son parcialmente lo mismo dependiendo del ámbito en que se trate.",
+        "Opciones_E": null,
+        "Pregunta": "¿Dato e información es lo mismo? ¿Por qué?"
+    },
+    {
+        "Id_Pregunta": 2165940,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Secuencial, Aleatorio.",
+        "Opciones_B": "De la manera que fueron ingresados",
+        "Opciones_C": "Todas",
+        "Opciones_D": "Ninguna",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son las operaciones básicas que permiten transformar los datos en información?"
+    },
+    {
+        "Id_Pregunta": 2165941,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "La informática se refiere al procesamiento automático de información mediante dispositivos electrónicos y sistemas computacionales.",
+        "Opciones_B": "Se refiere a las computadoras.",
+        "Opciones_C": "Se refiere al área de la comunicación.",
+        "Opciones_D": "Se refiere a informar.",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué engloba la palabra informática?"
+    },
+    {
+        "Id_Pregunta": 2165942,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es crucial para la toma de decisiones",
+        "Opciones_B": "Ayuda un poco",
+        "Opciones_C": "No es de ayuda",
+        "Opciones_D": "Perjudica en la toma de decisiones",
+        "Opciones_E": null,
+        "Pregunta": "¿Cómo influye la información en la toma de decisiones?"
+    },
+    {
+        "Id_Pregunta": 2165943,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "La información es relevante cuando es importante para el usuario de la misma; es decir, es significativa para él.",
+        "Opciones_B": "Que genere dinero.",
+        "Opciones_C": "Que consuma recursos.",
+        "Opciones_D": "Que reduzca personal.",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son las condiciones o requisitos necesarios para que la información sea útil a los usuarios de la misma?"
+    },
+    {
+        "Id_Pregunta": 2165944,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Transmisión paralela, transmisión en serie.",
+        "Opciones_B": "No interviene en nada.",
+        "Opciones_C": "Los hace todo",
+        "Opciones_D": "En alguna medida interviene",
+        "Opciones_E": null,
+        "Pregunta": "Con respecto del uso de la información ¿Qué aspectos intervienen en su transmisión?"
+    },
+    {
+        "Id_Pregunta": 2165945,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Un sistema conceptual o ideal es un conjunto organizado de definiciones, símbolos y otros instrumentos del pensamiento.",
+        "Opciones_B": "Es un sistema que se construye en la mente.",
+        "Opciones_C": "Es solo un concepto",
+        "Opciones_D": "Es un concepto ambiguo",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un sistema conceptualmente?"
+    },
+    {
+        "Id_Pregunta": 2165946,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Conjunto formal de procesos que, operando sobre una colección de datos estructurada de acuerdo a las necesidades de la empresa, recopila, elabora y distribuye selectivamente la información.",
+        "Opciones_B": "Equipos de computación",
+        "Opciones_C": "El dinero que se invirtió en este",
+        "Opciones_D": "La complejidad de este",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es más específicamente un sistema de información y qué lo caracteriza como tal?"
+    },
+    {
+        "Id_Pregunta": 2165947,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Software, hardware, datos, red de conexión y personas",
+        "Opciones_B": "Hardware",
+        "Opciones_C": "Personas",
+        "Opciones_D": "Información",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son los componentes básicos de un sistema de información?"
+    },
+    {
+        "Id_Pregunta": 2165948,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Resolver algún problema específico, reducir la cantidad de errores posibles, en menor medida, un sistema informático puede aumentar la productividad de la empresa.",
+        "Opciones_B": "Generar ingresos",
+        "Opciones_C": "Reducir personal",
+        "Opciones_D": "Desarrollar software",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son las funciones de un sistema informático?"
+    },
+    {
+        "Id_Pregunta": 2165949,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Arriba -abajo",
+        "Opciones_B": "Estructura vertical",
+        "Opciones_C": "Departamental",
+        "Opciones_D": "De la pirámide o piramidal",
+        "Opciones_E": null,
+        "Pregunta": "¿Cómo se le conoce al modelo que se basa en la jerarquía de una organización?"
+    },
+    {
+        "Id_Pregunta": 2165950,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Gestionar la información referente a las transacciones producidas en una empresa u organización.",
+        "Opciones_B": "Orientarse a solucionar problemas empresariales en general.",
+        "Opciones_C": "Herramienta orientada a usuarios de nivel gerencial, que permite monitorear el estado de las variables de un área o unidad de la empresa a partir de información interna y externa a la misma.",
+        "Opciones_D": "Herramienta para realizar el análisis de las diferentes variables de negocio con la finalidad de apoyar el proceso de toma de decisiones.",
+        "Opciones_E": null,
+        "Pregunta": "¿Los Sistemas de Información Ejecutiva (EIS) ofrecen entre sus funcionalidades?"
+    },
+    {
+        "Id_Pregunta": 2165951,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Una manera de informar",
+        "Opciones_B": "Un método de proceso",
+        "Opciones_C": "Es la ciencia que se encarga del estudio y aplicación del tratamiento automático de la información.",
+        "Opciones_D": "No es una ciencia",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es la informática?"
+    },
+    {
+        "Id_Pregunta": 2165952,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Informar a las personas",
+        "Opciones_B": "Formar a las personas",
+        "Opciones_C": "Es de origen francés, apareció en 1962, que quiere decir información y automática.",
+        "Opciones_D": "Quiere decir formación",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué significa informática?"
+    },
+    {
+        "Id_Pregunta": 2165953,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Konrad Zuse entre 1935 y 1936, y se terminó de construir en 1938.",
+        "Opciones_B": "Joseph Marie Jacquard y perfeccionadas por el estadounidense Herman Hollerith en 1890",
+        "Opciones_C": "Alan Turing",
+        "Opciones_D": "Feranti Mark I",
+        "Opciones_E": null,
+        "Pregunta": "¿Quién inventó la primera máquina (computador electrónico)?"
+    },
+    {
+        "Id_Pregunta": 2165954,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un sistema electrónico que permite la entrada de datos, el procesamiento y almacenamiento de los mismos.",
+        "Opciones_B": "Una máquina para jugar",
+        "Opciones_C": "Una máquina de escribir electrónica",
+        "Opciones_D": "Un procesador de textos",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es la computadora?"
+    },
+    {
+        "Id_Pregunta": 2165955,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son los componentes físicos y tangibles, es decir las partes que se pueden ver y tocar.",
+        "Opciones_B": "Es la carcasa de una computadora",
+        "Opciones_C": "Es una tienda de artículos electrónicos",
+        "Opciones_D": "Es una marca de computadoras",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es hardware?"
+    },
+    {
+        "Id_Pregunta": 2165956,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es la parte lógica e intangible que posibilita que una computadora funcione",
+        "Opciones_B": "Son los dispositivos con los que se conecta la computadora",
+        "Opciones_C": "Es la parte suave que se encuentra en una computadora",
+        "Opciones_D": "Es un programa que se debe instalar en las computadoras",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es software?"
+    },
+    {
+        "Id_Pregunta": 2165957,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son elementos que permiten al usuario introducir datos, información, comandos y programas de computadora.",
+        "Opciones_B": "El mouse",
+        "Opciones_C": "El teclado",
+        "Opciones_D": "El monitor",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué son los dispositivos de entrada?"
+    },
+    {
+        "Id_Pregunta": 2165958,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "El teclado, el ratón, el escáner, el CD-ROM, el joystick, micrófono, y cámara digital.",
+        "Opciones_B": "El sensor de temperatura",
+        "Opciones_C": "El lector de barras o QR",
+        "Opciones_D": "Dispositivo detector de ondas electrónicas",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son los dispositivos de entrada más utilizados?"
+    },
+    {
+        "Id_Pregunta": 2165959,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Permite la comunicación entre el usuario y la computadora.",
+        "Opciones_B": "Sirve para utilizar solo el procesador de textos",
+        "Opciones_C": "Solo sirve para encender la computadora",
+        "Opciones_D": "Solo sirve para realizar códigos de programación",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es el teclado?"
+    },
+    {
+        "Id_Pregunta": 2165960,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Este dispositivo sirve para digitalizar imágenes o texto.",
+        "Opciones_B": "Un aparato que busca con rayos X las cosas en las maletas",
+        "Opciones_C": "Una máquina de rayos láser",
+        "Opciones_D": "Muestra imágenes",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es el escáner?"
+    },
+    {
+        "Id_Pregunta": 2165961,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Permite grabar voz o sonido y almacenar la información en un archivo de audio.",
+        "Opciones_B": "Parte del equipo de sonido de una computadora",
+        "Opciones_C": "Sirve para hacer karaoke en una computadora",
+        "Opciones_D": "Sirve para cantar en las computadoras.",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es el micrófono?"
+    },
+    {
+        "Id_Pregunta": 2165962,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Consiste en una palanca o control que permite mover el cursor u objeto en la pantalla como en los videojuegos.",
+        "Opciones_B": "Es parte de un Atari, equipo de juegos antiguo",
+        "Opciones_C": "Sirve para escribir contraseñas",
+        "Opciones_D": "No es parte de una computadora",
+        "Opciones_E": null,
+        "Pregunta": "¿En qué consiste el joystick, en una computadora?"
+    },
+    {
+        "Id_Pregunta": 2165963,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es una cámara de video diseñada para computadoras, permite ver al interlocutor mientras se conecta a internet para conversar con personas que están lejos.",
+        "Opciones_B": "Ayuda a verificar el clima",
+        "Opciones_C": "Impide el ingreso no autorizado",
+        "Opciones_D": "Sirve para detectar personas no autorizadas",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es la cámara web?"
+    },
+    {
+        "Id_Pregunta": 2165964,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son aquellos que utilizamos para obtener la información que está almacenada en la memoria de la computadora y que es procesada.",
+        "Opciones_B": "Son el teclado y el escáner",
+        "Opciones_C": "Son la cámara web",
+        "Opciones_D": "Dispositivos que se encuentran adentro del computador",
+        "Opciones_E": null,
+        "Pregunta": "Los dispositivos de salida son aquellos que?"
+    },
+    {
+        "Id_Pregunta": 2165965,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es el principal dispositivo de salida de una computadora ya que gracias a él podemos observar la información.",
+        "Opciones_B": "Una pantalla donde se ve televisión",
+        "Opciones_C": "Una TV en el escritorio",
+        "Opciones_D": "Una persona que ve el acceso a la oficina",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un monitor?"
+    },
+    {
+        "Id_Pregunta": 2165966,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son dispositivos colocados en el oído para poder escuchar los sonidos de la tarjeta de sonido que envía.",
+        "Opciones_B": "Son partes internas del equipo",
+        "Opciones_C": "Son artefactos que se construyen",
+        "Opciones_D": "Son máquinas específicas del computador",
+        "Opciones_E": null,
+        "Pregunta": "¿Para qué sirven los auriculares?"
+    },
+    {
+        "Id_Pregunta": 2165967,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un dispositivo mediante el cual se imprime una copia de otra impresión transmitida.",
+        "Opciones_B": "Es una máquina de escribir",
+        "Opciones_C": "Es un aparato telefónico",
+        "Opciones_D": "Es un dispositivo de todo equipo de computación.",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál es la función del fax?"
+    },
+    {
+        "Id_Pregunta": 2165968,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es uno de los dispositivos más usados, tanto en oficina como en el hogar. Permite tener el registro en una hoja de papel de la información contenida en la computadora.",
+        "Opciones_B": "Es un equipo que se utiliza en imprentas",
+        "Opciones_C": "Es un tipo de disco duro",
+        "Opciones_D": "Es una parte del microprocesador",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es la impresora?"
+    },
+    {
+        "Id_Pregunta": 2165969,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es el software sobre el que funcionan las demás aplicaciones instaladas en una computadora y es el más importante de los programas.",
+        "Opciones_B": "Es un programa de juegos",
+        "Opciones_C": "Es una máquina del computador",
+        "Opciones_D": "Es un elemento que utiliza el mouse",
+        "Opciones_E": null,
+        "Pregunta": "¿De qué se encarga el sistema operativo?"
+    },
+    {
+        "Id_Pregunta": 2165970,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Monotareas, multitareas, monoproceso, multiproceso, monousuario y multiusuario.",
+        "Opciones_B": "IOS",
+        "Opciones_C": "Android",
+        "Opciones_D": "Windows",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuántos y cuáles son los sistemas operativos que existen?"
+    },
+    {
+        "Id_Pregunta": 2165971,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son los que se encargan de almacenar los datos de los que hace uso el CPU, para guardar y recuperar información.",
+        "Opciones_B": "Es un medio de comunicación",
+        "Opciones_C": "Es parte de la impresora",
+        "Opciones_D": "Es la conexión que se tiene para el internet",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un medio de almacenamiento?"
+    },
+    {
+        "Id_Pregunta": 2165972,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es el medio de almacenamiento más importante porque es donde se guardan los archivos al trabajar en la computadora.",
+        "Opciones_B": "Sostener el equipo",
+        "Opciones_C": "Es el software del computador",
+        "Opciones_D": "Sirve para comunicarse con otros equipos",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál es la función del disco duro?"
+    },
+    {
+        "Id_Pregunta": 2165973,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un conjunto de datos los cuales se almacenan en un determinado formato. El archivo puede guardarse en el disco duro de la computadora o en algún otro medio de almacenamiento.",
+        "Opciones_B": "Un documento que ayuda al manejo de la computadora",
+        "Opciones_C": "Un archivo de configuración",
+        "Opciones_D": "Un documento privado de uso legal",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un archivo?"
+    },
+    {
+        "Id_Pregunta": 2165974,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un espacio que se utiliza para guardar los documentos o archivos en las unidades de almacenamiento y ayuda a ordenar los archivos por nombres para localizarlos fácilmente.",
+        "Opciones_B": "Es una forma legal",
+        "Opciones_C": "Es una parte del computador",
+        "Opciones_D": "Es un registro de notas del sistema",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es una carpeta?"
+    },
+    {
+        "Id_Pregunta": 2165975,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un programa que previene o evita la activación de un virus así como su programación.",
+        "Opciones_B": "Ayuda a evitar enfermedades",
+        "Opciones_C": "Controla los datos",
+        "Opciones_D": "Configura programas de manera remota",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál es la función de un antivirus?"
+    },
+    {
+        "Id_Pregunta": 2165976,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es el sistema de comunicaciones global que enlaza a miles de redes individuales y es por ello se le conoce como la red de redes.",
+        "Opciones_B": "Es un sistema de entretenimiento",
+        "Opciones_C": "Es un juego",
+        "Opciones_D": "Es una red social",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es la internet?"
+    },
+    {
+        "Id_Pregunta": 2165977,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Creación, edición, impresión.",
+        "Opciones_B": "En programas",
+        "Opciones_C": "Durante la configuración del sistema",
+        "Opciones_D": "Al eliminar programas",
+        "Opciones_E": null,
+        "Pregunta": "¿En qué puede ser aplicado un procesador de texto?"
+    },
+    {
+        "Id_Pregunta": 2165978,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Se pueden guardar los documentos parcialmente para que lo utilices todas las veces que sean necesarios.",
+        "Opciones_B": "Tener mejores documentos",
+        "Opciones_C": "Tener una máquina de escribir electrónica",
+        "Opciones_D": "Tener un sistema operativo",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son las ventajas al utilizar un procesador de texto?"
+    },
+    {
+        "Id_Pregunta": 2165979,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son los buscadores que no tienen una base de datos, por lo que utilizan la base de datos de otros buscadores.",
+        "Opciones_B": "Son programas",
+        "Opciones_C": "Son páginas web",
+        "Opciones_D": "Son juegos",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué son los Motores de búsqueda?"
+    },
+    {
+        "Id_Pregunta": 2165980,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son recopilaciones del conocimiento humano.",
+        "Opciones_B": "Son documentos de Word",
+        "Opciones_C": "Son sistemas operativos",
+        "Opciones_D": "Son listas de programas",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué son las enciclopedias digitales?"
+    },
+    {
+        "Id_Pregunta": 2165981,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son páginas en las cuales se crea contenido que es colaborado por todo el mundo.",
+        "Opciones_B": "Son juegos",
+        "Opciones_C": "Son sistemas operativos",
+        "Opciones_D": "Son documentos impresos",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué son los wikis?"
+    },
+    {
+        "Id_Pregunta": 2165982,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Puede realizarse una tarea a la vez por usuario.",
+        "Opciones_B": "Realiza múltiples trabajos al mismo tiempo",
+        "Opciones_C": "Realiza tareas continuamente",
+        "Opciones_D": "Es un mono que trabaja en algo",
+        "Opciones_E": null,
+        "Pregunta": "¿Cómo funciona un sistema monotarea?"
+    },
+    {
+        "Id_Pregunta": 2165983,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Mac, Linux, Windows",
+        "Opciones_B": "C, C#, Laravel",
+        "Opciones_C": "Word, Macromedia, Photoshop",
+        "Opciones_D": "CD, MD, CHKDSK",
+        "Opciones_E": null,
+        "Pregunta": "Menciona 3 tipos de sistemas operativos diferentes."
+    },
+    {
+        "Id_Pregunta": 2165984,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Infecta archivos con extensiones .exe y .com",
+        "Opciones_B": "Propaga un resfrío",
+        "Opciones_C": "Elimina los archivos",
+        "Opciones_D": "Es parte de un resfrío",
+        "Opciones_E": null,
+        "Pregunta": "¿Cómo funciona un virus de archivo?"
+    },
+    {
+        "Id_Pregunta": 2165985,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Infecta archivos creados con determinadas aplicaciones como documentos de texto, bases de datos, hojas de cálculo, etc.",
+        "Opciones_B": "Solo en Excel",
+        "Opciones_C": "Solo en Word",
+        "Opciones_D": "Solo al escribir código en Visual Basic",
+        "Opciones_E": null,
+        "Pregunta": "¿Cómo funciona el virus de macro?"
+    },
+    {
+        "Id_Pregunta": 2165986,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Se introducen al sistema bajo una apariencia diferente a la de su objetivo final, como el virus Madonna, por ejemplo",
+        "Opciones_B": "Es una raza de caballo",
+        "Opciones_C": "Es un juego de caballos",
+        "Opciones_D": "Es una historia antigua",
+        "Opciones_E": null,
+        "Pregunta": "¿Cómo funcionan los caballos de troya?"
+    },
+    {
+        "Id_Pregunta": 2165987,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "OpenOffice, AmiPro, Open WordPerfect, WordPerfect",
+        "Opciones_B": "iOS, Android",
+        "Opciones_C": "MS-DOS, Windows, Fedora",
+        "Opciones_D": "Call Of Duty, StarCraft, Among Us",
+        "Opciones_E": null,
+        "Pregunta": "Ejemplos de procesadores electrónicos de texto"
+    },
+    {
+        "Id_Pregunta": 2165988,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Correo electrónico, chat, blogs, foros de discusión, redes sociales",
+        "Opciones_B": "Word, Excel, Paint",
+        "Opciones_C": "MS-DOS",
+        "Opciones_D": "Notepad",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son las aplicaciones que necesitan internet para funcionar?"
+    },
+    {
+        "Id_Pregunta": 2165989,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "El 12 de marzo de 1989, el investigador británico Tim Berners-Lee describió en un informe para el CERN el protocolo para la transferencia de hipertextos, lo que un año después sería la World Wide Web",
+        "Opciones_B": "El 29 de febrero de 1996",
+        "Opciones_C": "31 de septiembre de 1989",
+        "Opciones_D": "1ro de enero de 1980",
+        "Opciones_E": null,
+        "Pregunta": "¿En qué año fue creada la web y por quién?"
+    },
+    {
+        "Id_Pregunta": 2165990,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Wild World of Water",
+        "Opciones_B": "World Wide Web",
+        "Opciones_C": "No tiene un significado",
+        "Opciones_D": "Es parte de un logo informático",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué significa WWW?"
+    },
+    {
+        "Id_Pregunta": 2165991,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Fue presentada en noviembre de 1982 y su distribución inició en enero de 1983 a un precio de 3,590 dólares",
+        "Opciones_B": "Septiembre 20, 1989 (Original); Octubre 15, 1990 (Retroiluminación)",
+        "Opciones_C": "El MacBook Pro nace en el 2006 durante las MacWorld Expo, presentado por Steve Jobs",
+        "Opciones_D": "La HP-110, la primera PC portátil de Hewlett Packard, salió al mercado en 1984 con un procesador de 16 bits, 272 KB de RAM y software HP Personal Application Manager",
+        "Opciones_E": null,
+        "Pregunta": "¿En qué año nace la primera COMPAQ portátil o laptop, 100% compatible?"
+    },
+    {
+        "Id_Pregunta": 2165992,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Está formado por programas que se encargan de controlar, coordinar y gestionar todo el hardware",
+        "Opciones_B": "Por el Office",
+        "Opciones_C": "La impresora y el teclado",
+        "Opciones_D": "Por el directorio de Mis Documentos",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué está formando el software de sistemas?"
+    },
+    {
+        "Id_Pregunta": 2165993,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Se utiliza para representar elementos tales como computadoras, unidades de disco, impresoras, aplicaciones, archivos o la papelera de reciclaje",
+        "Opciones_B": "Es un programa",
+        "Opciones_C": "Es un logo",
+        "Opciones_D": "Es una marca",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un ícono?"
+    },
+    {
+        "Id_Pregunta": 2165994,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un servidor de red que proporciona servicios a otras computadoras que se conectan a él",
+        "Opciones_B": "Es la persona que atiende en la oficina",
+        "Opciones_C": "Es un equipo que se instaló primero",
+        "Opciones_D": "Es una computadora nueva",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál es la función de la computadora host?"
+    },
+    {
+        "Id_Pregunta": 2165995,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un servicio para intercambiar mensajes a través de una red de computadoras conectadas a Internet",
+        "Opciones_B": "Es una manera de enviar cartas",
+        "Opciones_C": "Es un juego en una computadora",
+        "Opciones_D": "Es una nueva aplicación",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un correo electrónico?"
+    },
+    {
+        "Id_Pregunta": 2165996,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es la herramienta que permite localizar información en Internet a partir de palabras introducidas al buscador",
+        "Opciones_B": "Es un programa para buscar información en una computadora",
+        "Opciones_C": "Es una herramienta en un procesador de texto",
+        "Opciones_D": "Es un juego",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un buscador?"
+    },
+    {
+        "Id_Pregunta": 2165997,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son aplicaciones especiales en miniatura que se pueden situar sobre el escritorio de Windows",
+        "Opciones_B": "Son aparatos tecnológicos",
+        "Opciones_C": "Son pequeñas computadoras",
+        "Opciones_D": "Son pequeños robots",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué son los gadgets?"
+    },
+    {
+        "Id_Pregunta": 2165998,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Totalmente verdadero",
+        "Opciones_B": "Totalmente falso",
+        "Opciones_C": "Ni falso ni verdadero",
+        "Opciones_D": "Parcialmente correcto",
+        "Opciones_E": null,
+        "Pregunta": "Analizando la naturaleza de la información según los niveles de decisión, se puede afirmar que en las decisiones estratégicas no posee un alto grado de actualidad y tiene un horizonte temporal futuro."
+    },
+    {
+        "Id_Pregunta": 2165999,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Un grupo de componentes interrelacionados entre sí para el logro de un objetivo",
+        "Opciones_B": "Una computadora",
+        "Opciones_C": "Un programa",
+        "Opciones_D": "No hay una respuesta para la pregunta",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un sistema?"
+    },
+    {
+        "Id_Pregunta": 2166000,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Entrada, proceso, retroalimentación, control, salida",
+        "Opciones_B": "Pantalla, teclado, ratón y CPU",
+        "Opciones_C": "Disco y disco duro",
+        "Opciones_D": "Unidades ópticas e impresoras",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son los componentes de un sistema?"
+    },
+    {
+        "Id_Pregunta": 2166001,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es el componente que supervisa y evalúa la retroalimentación, y realiza los ajustes necesarios a los componentes de entrada y procesamiento para garantizar que se genere la salida apropiada",
+        "Opciones_B": "Es una herramienta del computador",
+        "Opciones_C": "Es un programa del sistema operativo",
+        "Opciones_D": "Es un grupo antagonista en una serie de espías en TV de los 80s",
+        "Opciones_E": null,
+        "Pregunta": "¿En qué consiste el control?"
+    },
+    {
+        "Id_Pregunta": 2166002,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Recursos Humanos, Hardware, Software, Datos, redes",
+        "Opciones_B": "Tiempo y dinero",
+        "Opciones_C": "Software y hardware",
+        "Opciones_D": "Nada de lo anteriormente mencionado",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son los recursos de un sistema de información?"
+    },
+    {
+        "Id_Pregunta": 2166003,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son las personas que utilizan los sistemas.",
+        "Opciones_B": "Son las personas que construyen los sistemas",
+        "Opciones_C": "Son las personas que finalizan o destruyen los sistemas",
+        "Opciones_D": "Son las últimas personas que utilizaron el sistema.",
+        "Opciones_E": null,
+        "Pregunta": "¿Quiénes son los usuarios finales?"
+    },
+    {
+        "Id_Pregunta": 2166004,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Incluye todos los dispositivos físicos y materiales utilizados en el procesamiento de información, se dividen en sistemas del computador y periféricos del computador.",
+        "Opciones_B": "La batería del computador",
+        "Opciones_C": "Los programas de sistema operativo del computador",
+        "Opciones_D": "Los artículos electrónicos que se venden en una ferretería.",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué incluye los recursos de hardware?"
+    },
+    {
+        "Id_Pregunta": 2166005,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Tiempo, contenido y forma.",
+        "Opciones_B": "Tiempo y dinero.",
+        "Opciones_C": "Madurez en el producto",
+        "Opciones_D": "Tiempo en el mercado",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son los atributos que deben estar presentes en los productos de información de alta calidad?"
+    },
+    {
+        "Id_Pregunta": 2166006,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "De procesamiento de transacciones, de control de procesos, de colaboración empresarial",
+        "Opciones_B": "De apoyo a las operaciones, de apoyo gerencial",
+        "Opciones_C": "Exadecimal, binario",
+        "Opciones_D": "Multicapa y monolítico",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son las categorías en los sistemas de información?"
+    },
+    {
+        "Id_Pregunta": 2166007,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Ágil",
+        "Opciones_B": "Clásica",
+        "Opciones_C": "Cascada",
+        "Opciones_D": "Evolutiva",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué tipo de metodología es SCRUM?"
+    },
+    {
+        "Id_Pregunta": 2166008,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Reuniones o ceremonias, roles y documentos.",
+        "Opciones_B": "Niveles jerárquicos",
+        "Opciones_C": "Etapas",
+        "Opciones_D": "Tiempo",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son 3 características de SCRUM?"
+    },
+    {
+        "Id_Pregunta": 2166009,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un conjunto de elementos que interactúan entre sí.",
+        "Opciones_B": "Es un programa en inglés",
+        "Opciones_C": "Es un archivo",
+        "Opciones_D": "Es una metodología",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un sistema de información?"
+    },
+    {
+        "Id_Pregunta": 2166010,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Hardware",
+        "Opciones_B": "Documentos impresos",
+        "Opciones_C": "Soporte económico",
+        "Opciones_D": "Alimentos",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué elemento es necesario para que el sistema de información pueda operar?"
+    },
+    {
+        "Id_Pregunta": 2166011,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Entrada de Información",
+        "Opciones_B": "Proceso",
+        "Opciones_C": "Instalación",
+        "Opciones_D": "Compra",
+        "Opciones_E": null,
+        "Pregunta": "¿Es el proceso mediante el cual el Sistema de Información toma los datos que requiere para procesar la información?"
+    },
+    {
+        "Id_Pregunta": 2166012,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Terminales",
+        "Opciones_B": "Puerto SCSI",
+        "Opciones_C": "Lector Óptico",
+        "Opciones_D": "Lector de RFID",
+        "Opciones_E": null,
+        "Pregunta": "Las unidades típicas de entrada de datos a las computadoras son:"
+    },
+    {
+        "Id_Pregunta": 2166013,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sí",
+        "Opciones_B": "No",
+        "Opciones_C": null,
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿El almacenamiento es una de las actividades o capacidades más importantes que tiene una computadora?"
+    },
+    {
+        "Id_Pregunta": 2166014,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Procesamiento de Información",
+        "Opciones_B": "Formateo",
+        "Opciones_C": "Actualización",
+        "Opciones_D": "Parkeo",
+        "Opciones_E": null,
+        "Pregunta": "¿Es la capacidad del Sistema de Información para efectuar cálculos de acuerdo con una secuencia de operaciones preestablecida?"
+    },
+    {
+        "Id_Pregunta": 2166015,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "La salida",
+        "Opciones_B": "La impresión",
+        "Opciones_C": "El comprimido",
+        "Opciones_D": "El descomprimido",
+        "Opciones_E": null,
+        "Pregunta": "¿Capacidad de un Sistema de Información para sacar la información procesada o bien datos de entrada al exterior es?"
+    },
+    {
+        "Id_Pregunta": 2166016,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistemas Transaccionales",
+        "Opciones_B": "Sistemas operativos",
+        "Opciones_C": "Sistemas de gestión",
+        "Opciones_D": "Sistemas para la toma de decisiones",
+        "Opciones_E": null,
+        "Pregunta": "¿Los Sistemas de Información que logran la automatización de procesos operativos dentro de una organización, son llamados frecuentemente?"
+    },
+    {
+        "Id_Pregunta": 2166017,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistemas de Apoyo a las Decisiones",
+        "Opciones_B": "Sistemas Estratégicos",
+        "Opciones_C": "Sistemas transaccionales",
+        "Opciones_D": "Sistemas Operativos",
+        "Opciones_E": null,
+        "Pregunta": "¿La información que generan sirve de apoyo a los mandos intermedios y a la alta administración en el proceso de toma de decisiones?"
+    },
+    {
+        "Id_Pregunta": 2166018,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistemas Estratégicos",
+        "Opciones_B": "Sistemas de control",
+        "Opciones_C": "Sistemas Digitales",
+        "Opciones_D": "Sistemas Analógicos",
+        "Opciones_E": null,
+        "Pregunta": "¿Un ejemplo de estos Sistemas de Información dentro de la empresa puede ser un sistema MRP?"
+    },
+    {
+        "Id_Pregunta": 2166019,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es esencial para los gerentes porque la mayoría de las organizaciones necesita información para sobrevivir y prosperar.",
+        "Opciones_B": "No son necesarios",
+        "Opciones_C": "Son poco útiles",
+        "Opciones_D": "Solo los gerentes antiguos los utilizan",
+        "Opciones_E": null,
+        "Pregunta": "¿Por qué los sistemas de información son esenciales en los negocios actuales?"
+    },
+    {
+        "Id_Pregunta": 2166020,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "base de datos",
+        "Opciones_B": "Sistema Gestor de Bases de Datos (SGBD)",
+        "Opciones_C": "aplicación informática para el manejo de bases de datos",
+        "Opciones_D": "ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Un archivo o conjunto de archivos que contienen múltiples informaciones que, de alguna forma, guardan relación es:"
+    },
+    {
+        "Id_Pregunta": 2166021,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "una base de datos jerárquica",
+        "Opciones_B": "un Sistema Gestor de Bases de Datos (SGBD)",
+        "Opciones_C": "una base de datos relacional",
+        "Opciones_D": "ninguna.",
+        "Opciones_E": null,
+        "Pregunta": "La herramienta informática que permite crear, manipular, gestionar y eliminar los datos y las estructuras de una base de datos es:"
+    },
+    {
+        "Id_Pregunta": 2166022,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "“Libros”, “Socios” y “Préstamos” serían entidades de la base de datos",
+        "Opciones_B": "“Socios” sería la relación entre “Libros” y “Géneros Literarios”",
+        "Opciones_C": "“Libros” y “Socios” serían entidades, y “Préstamos” la relación",
+        "Opciones_D": "Son ciertas las opciones a y c",
+        "Opciones_E": null,
+        "Pregunta": "En una base de datos de una biblioteca pública …"
+    },
+    {
+        "Id_Pregunta": 2166023,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Bases de Datos",
+        "Opciones_B": "Aplicaciones informáticas para Bases de Datos",
+        "Opciones_C": "Sistemas Gestores de Bases de Datos (SGBD)",
+        "Opciones_D": "ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Microsoft Access, Apache OpenOffice Base y LibreOffice Base son ejemplos de:"
+    },
+    {
+        "Id_Pregunta": 2166024,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "relacional",
+        "Opciones_B": "jerárquica",
+        "Opciones_C": "transaccional",
+        "Opciones_D": "ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Las bases de datos que creamos y manejamos mediante aplicaciones como Microsoft Access, Apache OpenOffice Base y LibreOffice Base son de tipo:"
+    },
+    {
+        "Id_Pregunta": 2166025,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "EXCEL",
+        "Opciones_B": "INFORMIX",
+        "Opciones_C": "BASE",
+        "Opciones_D": "ninguno",
+        "Opciones_E": null,
+        "Pregunta": "De los siguientes acrónimos, indica cual es un Sistema Gestor de Bases de Datos (SGBD)"
+    },
+    {
+        "Id_Pregunta": 2166026,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "el diseño conceptual y el diseño físico",
+        "Opciones_B": "el diseño conceptual, el diseño lógico y el diseño físico",
+        "Opciones_C": "el diseño conceptual, el diseño analógico y el diseño físico",
+        "Opciones_D": "el diseño digital, el diseño lógico y el diseño global",
+        "Opciones_E": null,
+        "Pregunta": "Las fases del diseño de una base de datos relacional son:"
+    },
+    {
+        "Id_Pregunta": 2166027,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "los datos se representan en tablas",
+        "Opciones_B": "la respuesta a las consultas se configura en forma de tabla",
+        "Opciones_C": "ambas son ciertas",
+        "Opciones_D": "ambas son falsas",
+        "Opciones_E": null,
+        "Pregunta": "De las siguientes afirmaciones, indica cuales son ciertas respecto a una base de datos relacional"
+    },
+    {
+        "Id_Pregunta": 2166028,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "los registros son las filas de las tablas",
+        "Opciones_B": "los registros son las columnas de las tablas",
+        "Opciones_C": "los campos son las filas de las tablas",
+        "Opciones_D": "las tuplas son las columnas de las tablas",
+        "Opciones_E": null,
+        "Pregunta": "En una base de datos de tipo relacional …"
+    },
+    {
+        "Id_Pregunta": 2166029,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "puede ser un campo que identifique unívocamente al registro (ej. DNI )",
+        "Opciones_B": "puede ser una clave aleatoria, normalmente de tipo numérico (ej. 0037)",
+        "Opciones_C": "ambas son ciertas",
+        "Opciones_D": "ambas son falsas",
+        "Opciones_E": null,
+        "Pregunta": "La clave (o llave) primaria (o principal) en una tabla de una base de datos relacional"
+    },
+    {
+        "Id_Pregunta": 2166030,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "falso",
+        "Opciones_B": "verdadero",
+        "Opciones_C": "no se sabe",
+        "Opciones_D": "ninguno",
+        "Opciones_E": null,
+        "Pregunta": "El diseño conceptual de una base de datos es elaborado por el Sistema Gestor de Bases de Datos (SGBD) elegido por el usuario"
+    },
+    {
+        "Id_Pregunta": 2166031,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "eliminar los registros que no nos interesen de la base de datos",
+        "Opciones_B": "ocultar los registros que no nos interesen de la base de datos",
+        "Opciones_C": "ambas son ciertas",
+        "Opciones_D": "ambas son falsas",
+        "Opciones_E": null,
+        "Pregunta": "Los filtros en las aplicaciones informáticas para bases de datos, permite"
+    },
+    {
+        "Id_Pregunta": 2166032,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "una manera de seleccionar información de una o más tablas, visualizada como otra tabla",
+        "Opciones_B": "una pantalla de introducción, consulta o modificación de datos en una o varias tablas",
+        "Opciones_C": "una presentación de los datos en la vista de impresión",
+        "Opciones_D": "ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Una consulta en una base de datos es …"
+    },
+    {
+        "Id_Pregunta": 2166033,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "una manera de seleccionar información de una o más tablas, visualizada como otra tabla",
+        "Opciones_B": "una pantalla de introducción, consulta o modificación de datos en una o varias tablas",
+        "Opciones_C": "una presentación de los datos en la vista de impresión",
+        "Opciones_D": "ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Un formulario en una base de datos es …"
+    },
+    {
+        "Id_Pregunta": 2166034,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "una manera de seleccionar información de una o más tablas, visualizada como otra tabla",
+        "Opciones_B": "una pantalla de introducción, consulta o modificación de datos en una o varias tablas",
+        "Opciones_C": "una presentación de los datos en la vista de impresión",
+        "Opciones_D": "ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Un informe en una base de datos es …"
+    },
+    {
+        "Id_Pregunta": 2166035,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Nombre y apellidos de un usuario",
+        "Opciones_B": "Profesión",
+        "Opciones_C": "DNI",
+        "Opciones_D": "ninguna",
+        "Opciones_E": null,
+        "Pregunta": "De los siguientes campos de la tabla de una base de datos, indica cual podría ser una clave (o llave) primaria (o principal):"
+    },
+    {
+        "Id_Pregunta": 2166036,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Verdadero.",
+        "Opciones_B": "Falso.",
+        "Opciones_C": "Ninguna.",
+        "Opciones_D": "Todo",
+        "Opciones_E": null,
+        "Pregunta": "Las tablas de una bases de datos relacional han de tener cada una un campo que permita identificar unívocamente cada registro"
+    },
+    {
+        "Id_Pregunta": 2166037,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "han de tener el mismo número de campos",
+        "Opciones_B": "han de tener el mismo número de registros",
+        "Opciones_C": "han de tener un campo común entre ambas",
+        "Opciones_D": "Son ciertas las opciones a y c",
+        "Opciones_E": null,
+        "Pregunta": "En una base de datos relacional, para establecer una relación entre dos tablas, éstas …"
+    },
+    {
+        "Id_Pregunta": 2166038,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "a través de los formularios",
+        "Opciones_B": "a través de las consultas de actualización",
+        "Opciones_C": "a través de los informes",
+        "Opciones_D": "a través de las consultas de eliminación",
+        "Opciones_E": null,
+        "Pregunta": "Para obtener por impresora , un listado lo más completo de los datos de una base de datos, la manera que presenta más posibilidades es:"
+    },
+    {
+        "Id_Pregunta": 2166039,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "utilizando un tabulador",
+        "Opciones_B": "a través de las ventanas",
+        "Opciones_C": "utilizando un asistente",
+        "Opciones_D": "todas las otras respuestas son correctas",
+        "Opciones_E": null,
+        "Pregunta": "La forma más rápida y sencilla de trabajar con aplicaciones para bases de datos es:"
+    },
+    {
+        "Id_Pregunta": 2166040,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Texto",
+        "Opciones_B": "Sí/No",
+        "Opciones_C": "Numérico",
+        "Opciones_D": "Nemo",
+        "Opciones_E": null,
+        "Pregunta": "En una tabla de empleados queremos almacenar la condición de fumador. El campo fumador será de tipo:"
+    },
+    {
+        "Id_Pregunta": 2166041,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "La consultas principalmente",
+        "Opciones_B": "En las tablas principalmente",
+        "Opciones_C": "Los informes principalmente",
+        "Opciones_D": "Los formularios principalmente",
+        "Opciones_E": null,
+        "Pregunta": "En las aplicaciones para bases de datos más habituales, para imprimir los datos se utiliza:"
+    },
+    {
+        "Id_Pregunta": 2166042,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Cuando los unimos mediante “y”",
+        "Opciones_B": "Cuando los unimos mediante “o”",
+        "Opciones_C": "Siempre obtendremos en ambos casos el mismo número de registros",
+        "Opciones_D": "Cuando condicionamos el primero al segundo",
+        "Opciones_E": null,
+        "Pregunta": "En una consulta de selección en una aplicación para bases de datos, ¿cuándo se obtendrán como resultado más registros: cuando unimos los criterios mediante “y” o cuando los unimos mediante “o”?"
+    },
+    {
+        "Id_Pregunta": 2166043,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Una base de datos es un conjunto de información relacionada entre sí",
+        "Opciones_B": "El conjunto de valores que puede tomar un atributo",
+        "Opciones_C": "Uno o varios que sirvan para distinguir cada entidad en la relación",
+        "Opciones_D": "ninguna",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es una base de datos?"
+    },
+    {
+        "Id_Pregunta": 2166044,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son vínculos entre tablas",
+        "Opciones_B": "Específica si es necesario que exista un valor en un campo",
+        "Opciones_C": "Ninguna es correcta",
+        "Opciones_D": "Ambas son correctas",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es una relación?"
+    },
+    {
+        "Id_Pregunta": 2166045,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Una clave principal identifica exclusivamente cada registro almacenado en la tabla",
+        "Opciones_B": "Una clave principal no permite duplicar registros en una tabla",
+        "Opciones_C": "ninguna",
+        "Opciones_D": "Las dos anteriores son correctas",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es una clave principal?"
+    },
+    {
+        "Id_Pregunta": 2166046,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Los usuarios con el rol de administrador de la base de datos son SYS, SYSTEM y cualquier otro usuario al que se le haya otorgado el rol DBA (“Data Base Administrador”).",
+        "Opciones_B": "Un esquema es una colección de usuarios que contienen objetos de este tipo",
+        "Opciones_C": "Un usuario puede modificar el diccionario de datos de los objetos de su esquema.",
+        "Opciones_D": "Si una instancia de base de datos se encuentra en una máquina UNIX y los clientes de bases de datos, es decir, los usuarios o aplicaciones se conectan a ella con un único usuario, pero desde máquinas",
+        "Opciones_E": null,
+        "Pregunta": "En el SGBD Oracle. ¿Cuál de las siguientes afirmaciones es correcta?"
+    },
+    {
+        "Id_Pregunta": 2166047,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Permisos que se dan a los usuarios tanto sobre objetos del esquema como sobre el sistema. Estos privilegios, se dan también a los perfiles (“profiles”).",
+        "Opciones_B": "Son tanto privilegios de sistema, como privilegios de objetos de esquema. Estos son asignados a roles y a usuarios.",
+        "Opciones_C": "Permisos que son manejados a través de los perfiles para limitar el uso de la CPU y para definir políticas sobre la contraseña (caducidad, complejidad de ésta, etc.)",
+        "Opciones_D": "Son un conjunto de permisos agrupados sobre los objetos de la base de datos que simplifican la gestión de la base de datos. En ningún caso se trata de permisos sobre el sistema.",
+        "Opciones_E": null,
+        "Pregunta": "Los privilegios en el SGBD Oracle son. ¿Cuál de las siguientes afirmaciones es correcta?"
+    },
+    {
+        "Id_Pregunta": 2166048,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Permite que cualquier usuario de la base de datos pueda realizar operaciones de modificación directa (mediante UPDATE) sobre él",
+        "Opciones_B": "Almacena la definición de todos los objetos de la BD.",
+        "Opciones_C": "Está almacenado en el tablespace USERS y puede acceder a él cualquier usuario de la base de datos.",
+        "Opciones_D": "Es opcional. Es decir, pueden existir bases de datos sin diccionario de datos.",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes afirmaciones es cierta? El diccionario de datos de una base de datos..."
+    },
+    {
+        "Id_Pregunta": 2166049,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Una transacción es una secuencia de operaciones que han de ejecutarse de forma atómica.",
+        "Opciones_B": "En Oracle , una transacción es una secuencia de sentencias SQL, pero por mecanismos propios del SGBD no es necesario tratarlo como una única unidad.",
+        "Opciones_C": "No existen errores a nivel transacción.",
+        "Opciones_D": "Cuando una transacción termina con éxito, las actualizaciones de que consta la transacción se graban con la sentencia ROLLBACK.",
+        "Opciones_E": null,
+        "Pregunta": "En relación a las transacciones y su procesamiento. ¿Cuál de las siguientes afirmaciones es cierta?"
+    },
+    {
+        "Id_Pregunta": 2166050,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "El archivo de control, contiene el nombre de la base de datos, el lugar físico donde se encuentran los “tablesplaces”, los SCN (Número de secuencia de Log actual) y el diccionario de datos.",
+        "Opciones_B": "En el fichero de “Redo Log” se guardan todos los datos confirmados, excepto el de algunas transacciones en los que se excluye dicha escritura",
+        "Opciones_C": "Los ficheros de “Redo Log” sirven para recuperar una base de datos, pues en él se guardan todos los datos modificados y los antiguos datos, por si, por ejemplo, se ejecutara un ROLLBACK de la transacción",
+        "Opciones_D": "El “tablespace” TEMPORAL, sirve para guardar datos temporales como el SCN (“Número Secuencial de l Log Actual”) e información temporal de las copias de seguridad que se hacen en un momento dado, entre",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes afirmaciones es correcta?"
+    },
+    {
+        "Id_Pregunta": 2166051,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "… si cada instancia tiene su propia SGA (“System Global Area”) y la misma máquina compartida.",
+        "Opciones_B": "… si cada instancia reside en diferentes máquinas.",
+        "Opciones_C": "... que residen en uno o varios ordenadores, o máquinas, con diferente nombres de Bases de Datos para recuperación más rápida de bases de datos",
+        "Opciones_D": "No, pues una instancia con su propia SGA (“System Global Area”) puede contener diferentes bases de datos. Por ejemplo para planes de emergencia.",
+        "Opciones_E": null,
+        "Pregunta": "Una base de datos puede estar compuesta de varias instancias …"
+    },
+    {
+        "Id_Pregunta": 2166052,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Asignarle los permisos de selección y modificación de dichos campos a cada usuario que queramos que cumplan esos requisitos. Sería lo más eficiente.",
+        "Opciones_B": "Crear un rol, darle permisos de selección y modificación de dichos campos y asignar ese rol a cada usuario. Sería lo más eficiente.",
+        "Opciones_C": "Crear un perfil, darle permisos de selección y modificación de dichos campos y aplicar ese perfil a cada uno de los usuarios. Sería lo más eficiente.",
+        "Opciones_D": "Crear un perfil, aplicar ese perfil a cada uno de los usuario y, por último, darle permisos a ese perfil de selección y modificación de los campos adecuados. Sería lo más eficiente.",
+        "Opciones_E": null,
+        "Pregunta": "Dada la relación PERSONA(DNI, nombre, dirección, teléfono, nómina), si quisiéramos que sólo 3 usuarios (por ahora) sean capaces de consultar y modificar los datos referentes al teléfono y la nómina en la relación, deberíamos:"
+    },
+    {
+        "Id_Pregunta": 2166053,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Guardan información sobre la estructura lógica de la Base de Datos entre otras cosas",
+        "Opciones_B": "Es el archivo de la BD, que almacena la ubicación y estado de las copias de seguridad",
+        "Opciones_C": "Proporcionan el mecanismo para rehacer transacciones en caso de fallo en la BD",
+        "Opciones_D": "Es el archivo de la BD, que almacena la definición de todos los objetos de la BD (tablas, vistas, índices, procedimientos, funciones, disparadores, etc.)",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes afirmaciones es cierta respecto a los ficheros de control en el Sistema Gestor de la Base de Datos ORACLE?"
+    },
+    {
+        "Id_Pregunta": 2166054,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Para poder realizar un backup en caliente es necesario estar en modo “NO ARCHIVELOG”",
+        "Opciones_B": "En Base de Datos que siempre tienen que estar funcionando sólo es posible hacer backup en frio",
+        "Opciones_C": "La herramienta “IMPORT” de Oracle permite hacer backup lógicos",
+        "Opciones_D": "Un backup en caliente de un espacio de tablas consiste en copiar todos los ficheros de almacenamiento asociados al mismo mientras la base de datos está en modo “ARCHIVELOG”",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes afirmaciones es cierta respecto a la Recuperación en el Sistema Gestor de la Base de Datos ORACLE?"
+    },
+    {
+        "Id_Pregunta": 2166055,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Se recomienda definir índices si la clave sobre la que se crea es de gran tamaño",
+        "Opciones_B": "Las tablas organizadas como índices sólo se recomiendan en tablas cuyo tamaño de fila es de gran tamaño",
+        "Opciones_C": "Las tablas organizadas como índices sólo se recomiendan en tablas cuyo tamaño de fila es pequeño",
+        "Opciones_D": "Para aumentar el rendimiento en el acceso a los datos se utilizan índices, tablas organizadas por índices, Clusters y Hash Cluster",
+        "Opciones_E": null,
+        "Pregunta": "Respecto al diseño físico. ¿Cuál de las siguientes afirmaciones es cierta?"
+    },
+    {
+        "Id_Pregunta": 2166056,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "El Área Global de Memoria Compartida (SGA)",
+        "Opciones_B": "El Área Global Privada de Memoria (PGA)",
+        "Opciones_C": "El SGA más los procesos de Oracle de acceso a la Base de Datos",
+        "Opciones_D": "El PGA más los procesos de Oracle de acceso a la Base de Datos",
+        "Opciones_E": null,
+        "Pregunta": "Una instancia de Oracle se compone de:"
+    },
+    {
+        "Id_Pregunta": 2166057,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "La sentencia es correcta",
+        "Opciones_B": "La sentencia es incorrecta, ya que no se pueden mezclar propiedades sobre el uso de recursos hardware y propiedades de la contraseña en una misma sentencia CREATE PROFILE",
+        "Opciones_C": "La sentencia es incorrecta, ya que no se pueden administrar las propiedades de las contraseñas en la sentencia CREATE PROFILE",
+        "Opciones_D": "La sentencia es incorrecta, ya que sólo se puede indicar el tiempo de vida de una contraseña en las sentencias CREATE/ALTER USER",
+        "Opciones_E": null,
+        "Pregunta": "Indica la opción correcta sobre la siguiente sentencia: CREATE PROFILE perfil_usuario LIMIT CPU_PER_SESSION 30 SESSION_PER_USER 3 PASSWORD_LIFE_TIME UNLIMITED"
+    },
+    {
+        "Id_Pregunta": 2166058,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Como tenemos el backup físico, podemos hacer una recuperación completa",
+        "Opciones_B": "Ante esta situación, se han perdido todos los datos, y no se puede recuperar nada de la BD",
+        "Opciones_C": "Como tenemos el backup físico, podemos hacer una recuperación pero con pérdida de información",
+        "Opciones_D": "Al estar en modo NO ARCHIVELOG, podemos hacer una recuperación completa utilizando el backup y los ficheros REDOLOG",
+        "Opciones_E": null,
+        "Pregunta": "Ha ocurrido un error de sistema que ha perjudicado al disco donde se encuentra una BD produciéndose daños en ella. Se trata de una BD online en la que se realizan cambios continuamente, el único y último backup físico que se tiene es de dos horas antes a cuando ocurrió el fallo y la BD está en modo NO ARCHIVELOG ¿Cuál de las siguientes afirmaciones es cierta?"
+    },
+    {
+        "Id_Pregunta": 2166059,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Un conjunto de usuarios",
+        "Opciones_B": "Un conjunto de privilegios sobre el sistema",
+        "Opciones_C": "Un conjunto de privilegios sobre objetos de esquemas de usuario",
+        "Opciones_D": "Un conjunto de privilegios sobre el sistema y/o sobre objetos de esquemas de usuario",
+        "Opciones_E": null,
+        "Pregunta": "Se define un rol como:"
+    },
+    {
+        "Id_Pregunta": 2166060,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "No ocurre, porque este tipo de problema no aparece en la concurrencia de los SGBD",
+        "Opciones_B": "Ocurre cuando dos transacciones que acceden a los mismos ítems tienen sus operaciones intercaladas de tal forma que modifican o acceden al valor de algún ítem incorrectamente.",
+        "Opciones_C": "Ocurre cuando una transacción T1 lee un ítem de datos dos veces y otra transacción T2 modifica dicho ítem entre las dos lecturas y lo confirma",
+        "Opciones_D": "Sucede cuando una transacción T1 lee un ítem de datos dos veces y otra transacción T2 modifica dicho ítem entre las dos lecturas, pero sin confirmar esta modificación",
+        "Opciones_E": null,
+        "Pregunta": "Dentro de los problemas clásicos asociados a la concurrencia, una lectura no repetible o lectura borrosa:"
+    },
+    {
+        "Id_Pregunta": 2166061,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Prevenir problemas de concurrencia",
+        "Opciones_B": "Realizar optimizaciones sobre el diseño físico de la base de datos",
+        "Opciones_C": "Permitir la recuperación ante fallos y prevenir problemas de concurrencia",
+        "Opciones_D": "Son erróneas las respuestas anteriores.",
+        "Opciones_E": null,
+        "Pregunta": "El concepto de transacción en Oracle permite:"
+    },
+    {
+        "Id_Pregunta": 2166062,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "En el tablespace SYSTEM se guardan datos de Oracle, como estadísticas, estado de la instancia y datos de un aplicativo como tablas, etc.",
+        "Opciones_B": "En el tablespace REDO se guardan los datos antiguos de una transacción y los nuevos en el UNDO.",
+        "Opciones_C": "El tablespace TEMP se utiliza como temporal de las operaciones join, order-by, hash, etc. de los diferentes usuarios que tengan como tablespace temporal por defecto el TEMP",
+        "Opciones_D": "En el tablespace SYSTEM a parte de tener los datos del diccionario también guarda ciertos datos temporales de las operaciones join, order, etc. de los usuarios e incluso datos",
+        "Opciones_E": null,
+        "Pregunta": "De las siguientes definiciones, ¿Cuál es la correcta?"
+    },
+    {
+        "Id_Pregunta": 2166063,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "SQL-Plus",
+        "Opciones_B": "SQL*Expert",
+        "Opciones_C": "SQL-Analyze (Explain plan)",
+        "Opciones_D": "SQL-Stat",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué herramienta proporciona Oracle para consultar el plan que ha seguido a la hora de ejecutar una consulta?"
+    },
+    {
+        "Id_Pregunta": 2166064,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Los segmentos rollback almacenan las últimas sentencias realizadas sobre la BD",
+        "Opciones_B": "Los ficheros de control almacenan la estructura lógica de la BD",
+        "Opciones_C": "Un backup de la BD es un fichero de almacenamiento de cambios en la BD",
+        "Opciones_D": "Un backup lógico no es una copia de seguridad de la BD",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes afirmaciones es cierta?"
+    },
+    {
+        "Id_Pregunta": 2166065,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Se recuperará la BD en estado inconsistente y habrá habido pérdida de información",
+        "Opciones_B": "Si la BD está en modo NO ARCHIVELOG, el SGBD no va a ser capaz de devolver la BD en estado consistente",
+        "Opciones_C": "El SGBD debe de ser capaz de recuperar cualquier transacción afectada por un fallo",
+        "Opciones_D": "El SGBD fuerza el commit de la transacción, y así devolverá la BD en estado consistente",
+        "Opciones_E": null,
+        "Pregunta": "Después de haberse producido un fallo en mitad de procesamiento de una transacción, el SGBD pasa a restaurar la BD. ¿Cuál de las siguientes respuestas es cierta?"
+    },
+    {
+        "Id_Pregunta": 2166066,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "… no utilizan bloqueos y asignan un identificador único a cada transacción que equivale al tiempo de inicio de la misma",
+        "Opciones_B": "… necesitan realizar una serie de chequeos previos a la ejecución de cada operación de la BD",
+        "Opciones_C": "… necesitan que previamente se ejecuten las técnicas de control pesimistas para evitar problemas de concurrencia en las operaciones de las transacciones",
+        "Opciones_D": "… permiten que las transacciones accedan libremente a los objetos, determinando antes de su finalización si ha habido o no interferencias",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes afirmaciones es cierta? Las técnicas de control de la concurrencia optimistas..."
+    },
+    {
+        "Id_Pregunta": 2166067,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "En un fichero de datos o “Datafile” se crea al menos un “tablespace” para contener los procedimientos almacenados, disparadores y tablas de un esquema",
+        "Opciones_B": "En un fichero de datos o “Datafile” se crea al menos un “tablespace” para contener las tablas de un esquema",
+        "Opciones_C": "Cuando se crea un objeto de base de datos, por ejemplo, una tabla o índice, se asigna a un “tablespace” mediante las opciones predeterminadas del usuario o mediante instrucciones específicas",
+        "Opciones_D": "Un bloque lógico en Oracle está compuesto por segmentos lógicos en los cuales se guardan los objetos Oracle, como tablas, procedimientos almacenados, etc.",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes afirmaciones es cierta?"
+    },
+    {
+        "Id_Pregunta": 2166068,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Cada segmento consta de una serie de secciones o extensiones, que son conjunto de bloques de Oracle contiguos. Cuando las extensiones existentes ya no contienen nuevos datos, el segmento obtiene una extensión",
+        "Opciones_B": "Cada segmento consta de una serie de secciones denominadas bloques, que son conjunto de extensiones de Oracle contiguos. Cuando los bloques existentes ya no pueden contener nuevos datos, el segmento o",
+        "Opciones_C": "El segmento es el nivel más bajo de granularidad. Los datos de Oracle se almacenan en segmentos de datos",
+        "Opciones_D": "Un bloque de datos se corresponde específicamente al número de segmentos de espacio en disco. Una base de datos usa y asigna (“allocate”) espacio libre en segmentos de datos",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes afirmaciones es cierta?"
+    },
+    {
+        "Id_Pregunta": 2166069,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "El objetivo de la optimización lógica de una consulta es obtener una expresión en álgebra relacional equivalente pero cuyo coste de ejecución se estime menor",
+        "Opciones_B": "El objetivo de la optimización física es determinar el hardware necesario para ejecutar una consulta",
+        "Opciones_C": "El objetivo de la optimización lógica de consultas es determinar si todos los elementos utilizados en la consulta existen en la base de datos",
+        "Opciones_D": "La optimización física se realiza es independiente del esquema de nuestra base de datos",
+        "Opciones_E": null,
+        "Pregunta": "Optimización y procesamiento de consultas. ¿Cuál de las siguientes afirmaciones es cierta?"
+    },
+    {
+        "Id_Pregunta": 2166070,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "La SGA (“System Global Area”) es un área de memoria reservada para cada proceso de usuario que se conecte a una base de datos.",
+        "Opciones_B": "El área “Buffer Redo Log” se ubica en la PGA (“Program Global Area”). En este área se almacenan los datos a rehacer (Guardados en el UNDO o segmentos de ROLLBACK en Oracle 8i).",
+        "Opciones_C": "En el SGA se guardan planes de ejecución de paquetes PL/SQL, bloques de datos recuperados de los “tablespaces” y registros denominados de “redo log”.",
+        "Opciones_D": "La PGA contiene los planes de ejecución de paquetes PL/SQL, bloques de datos recuperados de los “tablespaces” y registros denominados de “redo log”.",
+        "Opciones_E": null,
+        "Pregunta": "En el SGBD Oracle. ¿Cuál de las siguientes afirmaciones es correcta?"
+    },
+    {
+        "Id_Pregunta": 2166071,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Para asegurar la integridad, es necesario que las transacciones se puedan ejecutar de forma serial, una detrás de otra.",
+        "Opciones_B": "Si se ejecutan transacciones simultáneas no es necesario establecer mecanismos de control de concurrencia para asegurar la consistencia de los datos.",
+        "Opciones_C": "Cuando se ejecutan transacciones usando el modelo de marcas multiversión de Oracle, los datos que ven las transacciones son exactamente los mismos.",
+        "Opciones_D": "Asegurar la integridad cuando tenemos varias transacciones concurrentes tiene una desventaja, afecta a la escalabilidad de la Base de Datos.",
+        "Opciones_E": null,
+        "Pregunta": "En relación a la tarea de controlar la Integridad de la Base de Datos, en un sistema multiusuario como el SGBD Oracle, ¿Cuál de las siguientes afirmaciones es correcta?"
+    },
+    {
+        "Id_Pregunta": 2166072,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Base de Datos",
+        "Opciones_B": "Servidor que administra la Base de Datos",
+        "Opciones_C": "Administrador de Base de Datos",
+        "Opciones_D": "Nada de lo anterior es cierto",
+        "Opciones_E": null,
+        "Pregunta": "¿Que significa la sigla DBA?"
+    },
+    {
+        "Id_Pregunta": 2166073,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un conjunto de datos almacenados sistemáticamente para su posterior uso",
+        "Opciones_B": "Es aquella que esta compuesta en su mayoría por documentos y textos impresos",
+        "Opciones_C": "Permite almacenar y posteriormente acceder a los datos de forma rápida y estructurada",
+        "Opciones_D": "A y B son correctas.",
+        "Opciones_E": null,
+        "Pregunta": "¿Que es una Base de Datos?"
+    },
+    {
+        "Id_Pregunta": 2166074,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Es un subconjunto general de Bases de Datos",
+        "Opciones_B": "Servicio gestor de Bases de Datos",
+        "Opciones_C": "Sistemas gestores de Bases de Datos",
+        "Opciones_D": "Nada de lo anterior",
+        "Opciones_E": null,
+        "Pregunta": "¿Que significan las siglas SGBD?"
+    },
+    {
+        "Id_Pregunta": 2166075,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Son Bases de Datos solo para vínculos",
+        "Opciones_B": "Son Bases de datos de solo lectura",
+        "Opciones_C": "Las respuestas son incorrectas",
+        "Opciones_D": "Es el sistema operativo",
+        "Opciones_E": null,
+        "Pregunta": "¿Que son las Bases de Datos estáticas?"
+    },
+    {
+        "Id_Pregunta": 2166076,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Son las que no almacenan los datos",
+        "Opciones_B": "Son las que no se pueden modificar con el tiempo",
+        "Opciones_C": "A y B son correctas",
+        "Opciones_D": "Éstas son bases de datos donde la información almacenada se modifica con el tiempo, permitiendo operaciones como actualización, borrado y adición de datos, además de las operaciones fundamentales de c",
+        "Opciones_E": null,
+        "Pregunta": "¿Que son Bases de Datos dinámicas?"
+    },
+    {
+        "Id_Pregunta": 2166077,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Es cuidar los documentos, pero permitir que varias personas puedan acceder a él sin requisitos.",
+        "Opciones_B": "Acceder de forma fácil a la Base de Datos sin códigos, ni identificaciones.",
+        "Opciones_C": "Es la protección de Bases de Datos frente a usuarios no autorizados.",
+        "Opciones_D": "B y C son correctas.",
+        "Opciones_E": null,
+        "Pregunta": "¿Que es seguridad en Bases de Datos?"
+    },
+    {
+        "Id_Pregunta": 2166078,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Expresan entidades relevantes para un sistema de información, sus inter-relaciones y propiedades.",
+        "Opciones_B": "Relacionan las tablas entre sí.",
+        "Opciones_C": "Todo lo expresado es correcto",
+        "Opciones_D": "Nada de lo anterior",
+        "Opciones_E": null,
+        "Pregunta": "¿Que es un modelo entidad relación?"
+    },
+    {
+        "Id_Pregunta": 2166079,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Permite solamente insertar objetos a nuestras bases de datos.",
+        "Opciones_B": "Nos permite insertar objetos y textos, pero no borrar datos.",
+        "Opciones_C": "Este lenguaje nos permite realizar consultas a nuestras Bases de Datos, insertar, actualizar y borrar datos.",
+        "Opciones_D": "Todo lo expresado arriba.",
+        "Opciones_E": null,
+        "Pregunta": "¿Cual es el lenguaje SQL?"
+    },
+    {
+        "Id_Pregunta": 2166080,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Por los programadores",
+        "Opciones_B": "Por usuarios finales",
+        "Opciones_C": "Ninguno de los dos",
+        "Opciones_D": "Ambos",
+        "Opciones_E": null,
+        "Pregunta": "¿Por quien es más utilizado las Bases de Datos red?"
+    },
+    {
+        "Id_Pregunta": 2166081,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Es cuando hay palabras repetidas.",
+        "Opciones_B": "Esta se presenta cuando se repiten datos innecesariamente en los archivos que conforman la Base de Datos.",
+        "Opciones_C": "A y B son correctas.",
+        "Opciones_D": "Nada de lo indicado es correcto.",
+        "Opciones_E": null,
+        "Pregunta": "¿Que es redundancia en Bases de Datos?"
+    },
+    {
+        "Id_Pregunta": 2166082,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Ocurre cuando existe información contradictoria o incongruente en las Bases de Datos.",
+        "Opciones_B": "Se da en el momento de ingresar una palabra mal escrita.",
+        "Opciones_C": "Ambas son correctas",
+        "Opciones_D": "Ambas son incorrectas",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuando se da la inconsistencia en las Bases de Datos?"
+    },
+    {
+        "Id_Pregunta": 2166083,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Son caracteres que identifican la Base de Datos.",
+        "Opciones_B": "Identificador de registros de un campo",
+        "Opciones_C": "Es un código de dos caracteres que precede e identifica un subcampo de longitud variable dentro de un campo.",
+        "Opciones_D": "Las afirmaciones anteriores son incorrectas",
+        "Opciones_E": null,
+        "Pregunta": "¿Que es el delimitador de un subcampo?"
+    },
+    {
+        "Id_Pregunta": 2166084,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Se identifican por un limitador de subcampo",
+        "Opciones_B": "Se identifican por un rótulo.",
+        "Opciones_C": "Nada de lo anterior es correcto",
+        "Opciones_D": "Son elementos únicos",
+        "Opciones_E": null,
+        "Pregunta": "¿Como identificamos un subcampo?"
+    },
+    {
+        "Id_Pregunta": 2166085,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Describen los datos en el nivel más bajo y permiten identificar algunos detalles de implantación para el manejo del hardware de almacenamiento.",
+        "Opciones_B": "Describen niveles de almacenamiento en el disco.",
+        "Opciones_C": "Ambas son correctas.",
+        "Opciones_D": "Las respuestas son incorrectas",
+        "Opciones_E": null,
+        "Pregunta": "¿Que son modelos físicos de Datos?"
+    },
+    {
+        "Id_Pregunta": 2166086,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Minimizar el número de celdas vacías.",
+        "Opciones_B": "Aumentar el número de celdas vacías.",
+        "Opciones_C": "Nada de lo anterior",
+        "Opciones_D": "Las respuestas son incorrectas",
+        "Opciones_E": null,
+        "Pregunta": "¿Objetivo de una tabla normalizadora de datos?"
+    },
+    {
+        "Id_Pregunta": 2166087,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Para tener una mejor visualización del entorno de trabajo.",
+        "Opciones_B": "Sirve para guardar y almacenar información.",
+        "Opciones_C": "Para resumir en un dibujo toda una serie de datos.",
+        "Opciones_D": "Nada de lo anterior",
+        "Opciones_E": null,
+        "Pregunta": "¿Para que sirven los gráficos y tablas?"
+    },
+    {
+        "Id_Pregunta": 2166088,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Registros",
+        "Opciones_B": "Datos.",
+        "Opciones_C": "Campo.",
+        "Opciones_D": "REGISTROS DATOS Y CAMPOS",
+        "Opciones_E": null,
+        "Pregunta": "¿Que componentes tiene una tabla?"
+    },
+    {
+        "Id_Pregunta": 2166089,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Uno a uno",
+        "Opciones_B": "Mucho a muchos",
+        "Opciones_C": "Uno a muchos y viceversa",
+        "Opciones_D": "Las tres respuestas anteriores",
+        "Opciones_E": null,
+        "Pregunta": "¿Que tipos de relaciones existen?"
+    },
+    {
+        "Id_Pregunta": 2166090,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "El análisis y el diseño",
+        "Opciones_B": "Los flujos de trabajo del proceso del RUP",
+        "Opciones_C": "El análisis",
+        "Opciones_D": "El diseño",
+        "Opciones_E": null,
+        "Pregunta": "Conseguir una comprensión más precisa de los requisitos y una descripción de los mismos, que sea fácil de mantener y que nos ayude a estructurar el sistema entero, incluyendo su arquitectura. Se logra en:"
+    },
+    {
+        "Id_Pregunta": 2166091,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "En la fase de despliegue",
+        "Opciones_B": "En el análisis",
+        "Opciones_C": "En el diseño",
+        "Opciones_D": "En la fase de construcción",
+        "Opciones_E": null,
+        "Pregunta": "Se modela el sistema en su totalidad y se encuentra su forma de tal manera que soporte los requerimientos funcionales y no funcionales."
+    },
+    {
+        "Id_Pregunta": 2166092,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Estudiamos los requisitos que se describieron en La Captura de Requisitos, refinándolos y estructurándolos",
+        "Opciones_B": "Se modela el sistema en su totalidad y se encuentra su forma de tal manera que soporte los requerimientos funcionales y no funcionales.",
+        "Opciones_C": "Se consigue una comprensión más precisa de los requisitos y una descripción de los mismos",
+        "Opciones_D": "Se realizan las estimaciones de costo, tiempo y recursos",
+        "Opciones_E": null,
+        "Pregunta": "En el diseño:"
+    },
+    {
+        "Id_Pregunta": 2166093,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Para actividades como la gestión",
+        "Opciones_B": "Para actividades como la planeación",
+        "Opciones_C": "Para actividades como la presupuestación",
+        "Opciones_D": "Para actividades como la dirección",
+        "Opciones_E": null,
+        "Pregunta": "Los requisitos marcan el punto de partida para:"
+    },
+    {
+        "Id_Pregunta": 2166094,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Una condición de un proceso más gestionado",
+        "Opciones_B": "Una solución a un problema de obtención de información",
+        "Opciones_C": "Una solución a un problema de manejo de datos",
+        "Opciones_D": "Una condición o necesidad de un usuario para resolver un problema o alcanzar un objetivo",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es un requerimiento?"
+    },
+    {
+        "Id_Pregunta": 2166095,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "La ingeniería del software",
+        "Opciones_B": "La metodología unificada",
+        "Opciones_C": "La ingeniería de requerimientos",
+        "Opciones_D": "Las ciencias de la computación",
+        "Opciones_E": null,
+        "Pregunta": "Minimizar los problemas relacionados por la mala gestión de los requerimientos en el desarrollo de sistemas es una función de:"
+    },
+    {
+        "Id_Pregunta": 2166096,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Porque se enfoca en la definición de lo que se desea producir",
+        "Opciones_B": "Porque se enfoca en la definición de los problemas",
+        "Opciones_C": "Porque se enfoca en la definición de los casos de uso",
+        "Opciones_D": "Porque se enfoca en la definición de los casos de prueba",
+        "Opciones_E": null,
+        "Pregunta": "La Ingeniería de Requerimientos (IR) cumple un papel primordial en el proceso de producción de software:"
+    },
+    {
+        "Id_Pregunta": 2166097,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "No documentar adecuadamente los casos de uso",
+        "Opciones_B": "No realizar adecuadamente la codificación",
+        "Opciones_C": "No realizar una adecuada definición, especificación, y administración de los requerimientos",
+        "Opciones_D": "No documentar adecuadamente las pruebas",
+        "Opciones_E": null,
+        "Pregunta": "Los proyectos de software fracasan por:"
+    },
+    {
+        "Id_Pregunta": 2166098,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Si se determinaron bien los problemas",
+        "Opciones_B": "Si se establecieron correctamente los límites del proyecto",
+        "Opciones_C": "Si se alcanzaron o no los objetivos establecidos en el proyecto",
+        "Opciones_D": "Si se estableció el presupuesto correctamente",
+        "Opciones_E": null,
+        "Pregunta": "La especificación de requerimientos es la base que permite verificar:"
+    },
+    {
+        "Id_Pregunta": 2166099,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Completa",
+        "Opciones_B": "Global",
+        "Opciones_C": "Panorámica",
+        "Opciones_D": "General",
+        "Opciones_E": null,
+        "Pregunta": "La visión de los Directivos sobre los sistemas de la institución es:"
+    },
+    {
+        "Id_Pregunta": 2166100,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Completa",
+        "Opciones_B": "Global",
+        "Opciones_C": "Panorámica",
+        "Opciones_D": "Reducida",
+        "Opciones_E": null,
+        "Pregunta": "La visión de los Operadores es la más rica en detalles, pero es la más:"
+    },
+    {
+        "Id_Pregunta": 2166101,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Los actores de un sistema de información",
+        "Opciones_B": "Los usuarios de un sistema de información",
+        "Opciones_C": "Los administradores de un sistema de información",
+        "Opciones_D": "Los operadores de un sistema de información",
+        "Opciones_E": null,
+        "Pregunta": "En los sistemas de información las entidades maestras son:"
+    },
+    {
+        "Id_Pregunta": 2166102,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Transcripción",
+        "Opciones_B": "Captura de Datos",
+        "Opciones_C": "Codificación",
+        "Opciones_D": "Digitación",
+        "Opciones_E": null,
+        "Pregunta": "El ingreso original de datos al sistema se denomina:"
+    },
+    {
+        "Id_Pregunta": 2166103,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Codificación",
+        "Opciones_B": "Captura",
+        "Opciones_C": "Transcripción",
+        "Opciones_D": "Digitación",
+        "Opciones_E": null,
+        "Pregunta": "Copiar datos previamente capturados se denomina:"
+    },
+    {
+        "Id_Pregunta": 2166104,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Codificación",
+        "Opciones_B": "Captura",
+        "Opciones_C": "Transcripción",
+        "Opciones_D": "Validación",
+        "Opciones_E": null,
+        "Pregunta": "En los Sistemas de Información la actividad de controlar las actividades, para detectar errores y corregirlos se denomina:"
+    },
+    {
+        "Id_Pregunta": 2166105,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Dígitos verificadores",
+        "Opciones_B": "Valor habilitado",
+        "Opciones_C": "Valor único",
+        "Opciones_D": "Valor específico",
+        "Opciones_E": null,
+        "Pregunta": "Un valor numérico dado al que se le asocia un dígito único, que se calcula mediante un procedimiento se denomina:"
+    },
+    {
+        "Id_Pregunta": 2166106,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Secuencia",
+        "Opciones_B": "Ordenamiento",
+        "Opciones_C": "Clasificación",
+        "Opciones_D": "Diferenciación",
+        "Opciones_E": null,
+        "Pregunta": "La actividad de disponer un conjunto de objetos por alguna característica común siguiendo una secuencia es:"
+    },
+    {
+        "Id_Pregunta": 2166107,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Ordenamiento",
+        "Opciones_B": "Seguridad",
+        "Opciones_C": "Almacenamiento",
+        "Opciones_D": "Disponibilidad",
+        "Opciones_E": null,
+        "Pregunta": "Guardar datos para conservarlos seguros y recuperarlos cuando se necesiten es:"
+    },
+    {
+        "Id_Pregunta": 2166108,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Los sistemas",
+        "Opciones_B": "Los programadores",
+        "Opciones_C": "Los desarrolladores",
+        "Opciones_D": "Los usuarios",
+        "Opciones_E": null,
+        "Pregunta": "La producción de informes es la elaboración de datos para brindar información a:"
+    },
+    {
+        "Id_Pregunta": 2166109,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "El nivel operativo",
+        "Opciones_B": "El nivel gerencial",
+        "Opciones_C": "El nivel ejecutivo",
+        "Opciones_D": "El nivel directivo",
+        "Opciones_E": null,
+        "Pregunta": "Los Sistemas Transaccionales son empleados durante el largo plazo por:"
+    },
+    {
+        "Id_Pregunta": 2166110,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Investigar",
+        "Opciones_B": "Entender para qué lo llaman",
+        "Opciones_C": "Resolver los problemas",
+        "Opciones_D": "Entender los problemas",
+        "Opciones_E": null,
+        "Pregunta": "Lo primero que debe hacer el analista es:"
+    },
+    {
+        "Id_Pregunta": 2166111,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Los usuarios",
+        "Opciones_B": "Los problemas",
+        "Opciones_C": "La tecnología",
+        "Opciones_D": "Los gerentes",
+        "Opciones_E": null,
+        "Pregunta": "La Factibilidad Técnica se refiere al conocimiento y a:"
+    },
+    {
+        "Id_Pregunta": 2166112,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "La estructura de costos",
+        "Opciones_B": "La estructura de precios",
+        "Opciones_C": "La estructura de costos y precios",
+        "Opciones_D": "La Factibilidad Económica",
+        "Opciones_E": null,
+        "Pregunta": "La estimación de beneficios y costos, realizada por el peticionante es:"
+    },
+    {
+        "Id_Pregunta": 2166113,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Información",
+        "Opciones_B": "Calidad",
+        "Opciones_C": "Disponibilidad",
+        "Opciones_D": "Trazabilidad",
+        "Opciones_E": null,
+        "Pregunta": "Si los datos de salida son útiles a alguien para conocer o decidir reciben el nombre de:"
+    },
+    {
+        "Id_Pregunta": 2166114,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Oportunidad",
+        "Opciones_B": "Compleción",
+        "Opciones_C": "Formato adecuado",
+        "Opciones_D": "Calidad de información",
+        "Opciones_E": null,
+        "Pregunta": "Si el usuario dispone de toda la información necesitada es:"
+    },
+    {
+        "Id_Pregunta": 2166115,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Calidad",
+        "Opciones_B": "Sin problemas",
+        "Opciones_C": "Facilidad",
+        "Opciones_D": "Fluidez",
+        "Opciones_E": null,
+        "Pregunta": "La Facilidad Operativa es cuando un buen sistema debe ser fácil de operar y se debe operar con:"
+    },
+    {
+        "Id_Pregunta": 2166116,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Eficiencia",
+        "Opciones_B": "Simplicidad",
+        "Opciones_C": "Facilidad",
+        "Opciones_D": "Eficacia",
+        "Opciones_E": null,
+        "Pregunta": "Cuando un sistema logra el propósito para el que fue creado se llama:"
+    },
+    {
+        "Id_Pregunta": 2166117,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Diccionario de Datos",
+        "Opciones_B": "Lenguaje Estructurado",
+        "Opciones_C": "Diagrama de Flujo",
+        "Opciones_D": "Mapa Conceptual",
+        "Opciones_E": null,
+        "Pregunta": "La definición de cada dato de un sistema de información es:"
+    },
+    {
+        "Id_Pregunta": 2166118,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Salidas, entradas, procesos",
+        "Opciones_B": "Salidas, entradas, archivos",
+        "Opciones_C": "Salidas, procesos, archivos",
+        "Opciones_D": "Salidas, entradas, archivos, procesos",
+        "Opciones_E": null,
+        "Pregunta": "Las fases del diseño son:"
+    },
+    {
+        "Id_Pregunta": 2166119,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Salidas",
+        "Opciones_B": "Estructuras",
+        "Opciones_C": "Entradas",
+        "Opciones_D": "Datos elementales",
+        "Opciones_E": null,
+        "Pregunta": "Los datos relacionados que definen una entidad maestra o una transacción son las:"
+    },
+    {
+        "Id_Pregunta": 2166120,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Dato completo",
+        "Opciones_B": "Dato elemental",
+        "Opciones_C": "Dato real",
+        "Opciones_D": "Dato incompleto",
+        "Opciones_E": null,
+        "Pregunta": "Un dato que no se subdivide en otros es:"
+    },
+    {
+        "Id_Pregunta": 2166121,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Análisis",
+        "Opciones_B": "Requisitos",
+        "Opciones_C": "Diseño",
+        "Opciones_D": "Implementación",
+        "Opciones_E": null,
+        "Pregunta": "La etapa en la que se desarrolla conceptualmente el nuevo sistema y se preparan las especificaciones para su posterior construcción física se denomina:"
+    },
+    {
+        "Id_Pregunta": 2166122,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Textos, Tabulados, Gráficos",
+        "Opciones_B": "Textos, Tabulados",
+        "Opciones_C": "Textos Gráficos",
+        "Opciones_D": "Gráficos, Tabulados",
+        "Opciones_E": null,
+        "Pregunta": "Las formas comunes de salidas informativas son:"
+    },
+    {
+        "Id_Pregunta": 2166123,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Procesamiento",
+        "Opciones_B": "Procesamiento en tiempo real",
+        "Opciones_C": "Procesamiento por lotes",
+        "Opciones_D": "Movimientos",
+        "Opciones_E": null,
+        "Pregunta": "El procesar un grupo o lote de entradas similares, que fueron previamente acumuladas durante un periodo se denomina:"
+    },
+    {
+        "Id_Pregunta": 2166124,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Procesamiento",
+        "Opciones_B": "Procesamiento por lotes",
+        "Opciones_C": "Movimientos",
+        "Opciones_D": "Procesamiento en tiempo real",
+        "Opciones_E": null,
+        "Pregunta": "El procesamiento de cada entrada en el momento en que se presenta se denomina:"
+    },
+    {
+        "Id_Pregunta": 2166125,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "multiplicador",
+        "Opciones_B": "periodo",
+        "Opciones_C": "módulo",
+        "Opciones_D": "periodo completo",
+        "Opciones_E": null,
+        "Pregunta": "En un generador congruencial lineal la variable m es el:"
+    },
+    {
+        "Id_Pregunta": 2166126,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "genera un número multiplicando los 2 anteriores",
+        "Opciones_B": "utiliza la multiplicación",
+        "Opciones_C": "genera un número elevando al cuadrado el anterior",
+        "Opciones_D": "utiliza la multiplicación y no la suma",
+        "Opciones_E": null,
+        "Pregunta": "El generador congruencial multiplicativo se denomina así porque:"
+    },
+    {
+        "Id_Pregunta": 2166127,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "consultar la opinión de los expertos",
+        "Opciones_B": "su exactitud en la predicción del futuro",
+        "Opciones_C": "su exactitud al predecir datos históricos",
+        "Opciones_D": "por prueba y error",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes NO es una forma de validar un modelo de simulación?"
+    },
+    {
+        "Id_Pregunta": 2166128,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "cuantitativos",
+        "Opciones_B": "empíricos",
+        "Opciones_C": "estocásticos",
+        "Opciones_D": "cualitativos",
+        "Opciones_E": null,
+        "Pregunta": "Los modelos probabilísticos en que NO se conoce el resultado esperado, sino su probabilidad y existe por tanto incertidumbre, son los modelos:"
+    },
+    {
+        "Id_Pregunta": 2166129,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "empíricos",
+        "Opciones_B": "cuantitativos",
+        "Opciones_C": "deterministas",
+        "Opciones_D": "heurísticos",
+        "Opciones_E": null,
+        "Pregunta": "Los modelos que utilizan las observaciones directas o los resultados de experimentos del fenómeno estudiado, son los modelos:"
+    },
+    {
+        "Id_Pregunta": 2166130,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "26",
+        "Opciones_B": "29",
+        "Opciones_C": "32",
+        "Opciones_D": "35",
+        "Opciones_E": null,
+        "Pregunta": "Utilizando el generador congruencial mixto: x0 = 8, a = 9, c = 13, m = 32. ¿Qué periodo genera?"
+    },
+    {
+        "Id_Pregunta": 2166131,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "54",
+        "Opciones_B": "58",
+        "Opciones_C": "62",
+        "Opciones_D": "66",
+        "Opciones_E": null,
+        "Pregunta": "Utilizando el generador de cuadrados medios y la semilla x0 = 7777. ¿Qué periodo genera?"
+    },
+    {
+        "Id_Pregunta": 2166132,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "constante aditiva",
+        "Opciones_B": "módulo",
+        "Opciones_C": "multiplicador",
+        "Opciones_D": "periodo",
+        "Opciones_E": null,
+        "Pregunta": "En un generador congruencial lineal la variable a es el(la):"
+    },
+    {
+        "Id_Pregunta": 2166133,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "cortos",
+        "Opciones_B": "medianos",
+        "Opciones_C": "largos",
+        "Opciones_D": "completos",
+        "Opciones_E": null,
+        "Pregunta": "Los métodos de cuadrados medios y de productos centrales, en general producen periodos:"
+    },
+    {
+        "Id_Pregunta": 2166134,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "tiempo",
+        "Opciones_B": "administración",
+        "Opciones_C": "entrenamiento",
+        "Opciones_D": "costos",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes NO es una desventaja de utilizar la simulación?"
+    },
+    {
+        "Id_Pregunta": 2166135,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "comprensión",
+        "Opciones_B": "comparación de resultados",
+        "Opciones_C": "formalización",
+        "Opciones_D": "identificación",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes NO es una fase de la construcción de un modelo?"
+    },
+    {
+        "Id_Pregunta": 2166136,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "colección de datos",
+        "Opciones_B": "verificación",
+        "Opciones_C": "experimentación",
+        "Opciones_D": "interpretación",
+        "Opciones_E": null,
+        "Pregunta": "“Se interpretan los resultados que arroja la simulación y con base a esto se toma una decisión” ¿A qué elemento de la simulación se refiere?"
+    },
+    {
+        "Id_Pregunta": 2166137,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "equivalencia",
+        "Opciones_B": "complejidad",
+        "Opciones_C": "sensibilidad",
+        "Opciones_D": "estabilidad",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de los siguientes NO es un principio general ni condición de un modelo?"
+    },
+    {
+        "Id_Pregunta": 2166138,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "13",
+        "Opciones_B": "16",
+        "Opciones_C": "19",
+        "Opciones_D": "22",
+        "Opciones_E": null,
+        "Pregunta": "Utilizando el generador congruencial multiplicativo: x0 = 7, a = 5, m = 64. ¿Qué periodo genera?"
+    },
+    {
+        "Id_Pregunta": 2166139,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "54",
+        "Opciones_B": "58",
+        "Opciones_C": "62",
+        "Opciones_D": "66",
+        "Opciones_E": null,
+        "Pregunta": "Utilizando el generador de productos centrales y las semillas x0 = 3333 y x1 = 8888. ¿Qué periodo genera?"
+    },
+    {
+        "Id_Pregunta": 2166140,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "número entero",
+        "Opciones_B": "número primo grande",
+        "Opciones_C": "número impar",
+        "Opciones_D": "número par grande",
+        "Opciones_E": null,
+        "Pregunta": "En un generador congruencial lineal ¿cuál de las siguientes NO es una característica deseable para escoger los valores de a, c y m?"
+    },
+    {
+        "Id_Pregunta": 2166141,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "pseudoaleatorio",
+        "Opciones_B": "determinístico",
+        "Opciones_C": "aleatorio",
+        "Opciones_D": "estocástico",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de los siguientes términos es contrario a la generación de números al azar?"
+    },
+    {
+        "Id_Pregunta": 2166142,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "interpretación",
+        "Opciones_B": "experimentación",
+        "Opciones_C": "retroalimentación",
+        "Opciones_D": "colección de datos",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de los siguientes NO es un elemento de la simulación?"
+    },
+    {
+        "Id_Pregunta": 2166143,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "cuantitativos",
+        "Opciones_B": "heurísticos",
+        "Opciones_C": "deterministas",
+        "Opciones_D": "cualitativos",
+        "Opciones_E": null,
+        "Pregunta": "Los modelos en que se conoce de manera puntual la forma del resultado ya que no hay incertidumbre, son los modelos:"
+    },
+    {
+        "Id_Pregunta": 2166144,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "cualitativos",
+        "Opciones_B": "empíricos",
+        "Opciones_C": "estocásticos",
+        "Opciones_D": "heurísticos",
+        "Opciones_E": null,
+        "Pregunta": "Los modelos que están basados en las explicaciones sobre las causas o mecanismos naturales que dan lugar al fenómeno estudiado, son los modelos:"
+    },
+    {
+        "Id_Pregunta": 2166145,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "21",
+        "Opciones_B": "24",
+        "Opciones_C": "27",
+        "Opciones_D": "30",
+        "Opciones_E": null,
+        "Pregunta": "Utilizando el generador congruencial mixto: x0 = 15, a = 8, c = 16, m = 100. ¿Qué periodo genera?"
+    },
+    {
+        "Id_Pregunta": 2166146,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "39",
+        "Opciones_B": "43",
+        "Opciones_C": "47",
+        "Opciones_D": "51",
+        "Opciones_E": null,
+        "Pregunta": "Utilizando el generador de cuadrados medios y la semilla x0 = 9753. ¿Qué periodo genera?"
+    },
+    {
+        "Id_Pregunta": 2166147,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "constante aditiva",
+        "Opciones_B": "módulo",
+        "Opciones_C": "multiplicador",
+        "Opciones_D": "periodo",
+        "Opciones_E": null,
+        "Pregunta": "En un generador congruencial mixto la variable c es el(la):"
+    },
+    {
+        "Id_Pregunta": 2166148,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "genera un número a partir de los 2 números anteriores",
+        "Opciones_B": "utiliza la suma y el módulo",
+        "Opciones_C": "genera un número elevando al cuadrado el anterior",
+        "Opciones_D": "utiliza la suma y la multiplicación",
+        "Opciones_E": null,
+        "Pregunta": "El generador congruencial mixto se denomina así porque:"
+    },
+    {
+        "Id_Pregunta": 2166149,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "todos los demás",
+        "Opciones_B": "uniformemente distribuidos",
+        "Opciones_C": "generados a través de un método rápido",
+        "Opciones_D": "periodo largo",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes es una característica deseable en los números rectangulares?"
+    },
+    {
+        "Id_Pregunta": 2166150,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "simulación virtual",
+        "Opciones_B": "simulación instructiva",
+        "Opciones_C": "simulación de vida",
+        "Opciones_D": "simulación constructiva",
+        "Opciones_E": null,
+        "Pregunta": "Cuando las personas reales usan equipo simulado en mundos simulados o ambientes virtuales se trata de:"
+    },
+    {
+        "Id_Pregunta": 2166151,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "colección de datos",
+        "Opciones_B": "definición del sistema",
+        "Opciones_C": "documentación",
+        "Opciones_D": "formulación del modelo",
+        "Opciones_E": null,
+        "Pregunta": "“Es importante que se definan con claridad y exactitud los datos que el modelo va a requerir para producir los resultados deseados” ¿A qué elemento de la simulación se refiere?"
+    },
+    {
+        "Id_Pregunta": 2166152,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "universalidad",
+        "Opciones_B": "simplicidad",
+        "Opciones_C": "neutralidad",
+        "Opciones_D": "objetividad",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de los siguientes NO es un principio general ni condición de un modelo?"
+    },
+    {
+        "Id_Pregunta": 2166153,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "29",
+        "Opciones_B": "32",
+        "Opciones_C": "35",
+        "Opciones_D": "38",
+        "Opciones_E": null,
+        "Pregunta": "Utilizando el generador congruencial multiplicativo: x0 = 9, a = 11, m = 128. ¿Qué periodo genera?"
+    },
+    {
+        "Id_Pregunta": 2166154,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "36",
+        "Opciones_B": "40",
+        "Opciones_C": "44",
+        "Opciones_D": "48",
+        "Opciones_E": null,
+        "Pregunta": "Utilizando el generador de productos centrales y las semillas x0 = 9999 y x1 = 2468. ¿Qué periodo genera?"
+    },
+    {
+        "Id_Pregunta": 2166155,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "de frecuencias",
+        "Opciones_B": "de los promedios",
+        "Opciones_C": "del póquer",
+        "Opciones_D": "de series",
+        "Opciones_E": null,
+        "Pregunta": "La prueba que divide el intervalo (0,1) en n subintervalos, es la prueba:"
+    },
+    {
+        "Id_Pregunta": 2166156,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "discreto",
+        "Opciones_B": "continuo",
+        "Opciones_C": "determinista",
+        "Opciones_D": "estocástico",
+        "Opciones_E": null,
+        "Pregunta": "Un semáforo es un claro ejemplo de sistema:"
+    },
+    {
+        "Id_Pregunta": 2166157,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "estocástico",
+        "Opciones_B": "discreto",
+        "Opciones_C": "continuo",
+        "Opciones_D": "determinista",
+        "Opciones_E": null,
+        "Pregunta": "Una máquina tragamonedas es un claro ejemplo de sistema:"
+    },
+    {
+        "Id_Pregunta": 2166158,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "quintilla",
+        "Opciones_B": "escalera real",
+        "Opciones_C": "escalera de color",
+        "Opciones_D": "color",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes NO es una figura existente en el póquer?"
+    },
+    {
+        "Id_Pregunta": 2166159,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "experimental",
+        "Opciones_B": "poblacional",
+        "Opciones_C": "de competencia",
+        "Opciones_D": "de difusión de calor",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de los siguientes NO es un modelo?"
+    },
+    {
+        "Id_Pregunta": 2166160,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "dos o tres",
+        "Opciones_B": "dos",
+        "Opciones_C": "tres",
+        "Opciones_D": "tres o cuatro",
+        "Opciones_E": null,
+        "Pregunta": "En el modelo juego por la vida para que un habitante de una celda sobreviva, ¿cuántas celdas vecinas ocupadas debe tener?"
+    },
+    {
+        "Id_Pregunta": 2166161,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "11.89795918",
+        "Opciones_B": "16.42058631",
+        "Opciones_C": "20.60058417",
+        "Opciones_D": "22.39650875",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen 584 números pseudoaleatorios y se definen 7 intérvalos en la prueba de series. ¿Cúanto es la FE (frecuencia esperada)?"
+    },
+    {
+        "Id_Pregunta": 2166162,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "-0.4508859",
+        "Opciones_B": "0.4508859",
+        "Opciones_C": "-0.4588399",
+        "Opciones_D": "0.4588399",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen los números pseudoaleatorios: 0.1293107, 0.7729390, 0.0218324, 0.7218461, 0.6334025, 0.6097066, 0.1704806, 0.2698336, 0.6170627, 0.6419852 ¿cuál es el valor del estadístico de la prueba de los promedios?"
+    },
+    {
+        "Id_Pregunta": 2166163,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "5",
+        "Opciones_B": "4",
+        "Opciones_C": "6",
+        "Opciones_D": "7",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen los números pseudoaleatorios: 0.9277262, 0.5441142, 0.2729451, 0.8674310, 0.8196144, 0.9526535, 0.5177007, 0.6968153, 0.6825871, 0.7166768 ¿cuál es el valor del estadístico de la prueba de frecuencias con 5 intérvalos?"
+    },
+    {
+        "Id_Pregunta": 2166164,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "43.77777778",
+        "Opciones_B": "32.66666667",
+        "Opciones_C": "38.33333333",
+        "Opciones_D": "49.22222222",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen los números pseudoaleatorios: 0.1293107, 0.7729390, 0.0218324, 0.7218461, 0.6334025, 0.6097066, 0.1704806, 0.2698336, 0.6170627, 0.6419852 ¿cuál es el valor del estadístico de la prueba de series con n = 5?"
+    },
+    {
+        "Id_Pregunta": 2166165,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "del póquer",
+        "Opciones_B": "de los promedios",
+        "Opciones_C": "de frecuencias",
+        "Opciones_D": "de series",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las pruebas de generadores es la única que utiliza los 5 primeros dígitos?"
+    },
+    {
+        "Id_Pregunta": 2166166,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "de los promedios",
+        "Opciones_B": "de frecuencias",
+        "Opciones_C": "del póquer",
+        "Opciones_D": "de series",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las pruebas de generadores es la única que utiliza todos los dígitos?"
+    },
+    {
+        "Id_Pregunta": 2166167,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "determinista",
+        "Opciones_B": "continuo",
+        "Opciones_C": "discreto",
+        "Opciones_D": "estocástico",
+        "Opciones_E": null,
+        "Pregunta": "Un cajero automático es un claro ejemplo de sistema:"
+    },
+    {
+        "Id_Pregunta": 2166168,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "prueba de la simetría",
+        "Opciones_B": "prueba de la distancia",
+        "Opciones_C": "prueba de Kolmogorov-Smirnov",
+        "Opciones_D": "prueba de las corridas",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes NO es un tipo de prueba de números pseudoaleatorios?"
+    },
+    {
+        "Id_Pregunta": 2166169,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "(N - 1) / n^2",
+        "Opciones_B": "1 / 2",
+        "Opciones_C": "N / n",
+        "Opciones_D": "0.50400",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes fórmulas corresponde a la FE (frecuencia esperada) de la prueba de series?"
+    },
+    {
+        "Id_Pregunta": 2166170,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "739.53846",
+        "Opciones_B": "470.58129",
+        "Opciones_C": "649.66553",
+        "Opciones_D": "862.30751",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen 9614 números pseudoaleatorios y se definen 13 intérvalos en la prueba de frecuencias. ¿Cúanto es la FE (frecuencia esperada)?"
+    },
+    {
+        "Id_Pregunta": 2166171,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "tres",
+        "Opciones_B": "dos",
+        "Opciones_C": "dos o tres",
+        "Opciones_D": "cuatro",
+        "Opciones_E": null,
+        "Pregunta": "En el modelo juego por la vida para el nacimiento en una celda no ocupada, ¿cuántas celdas vecinas ocupadas debe tener?"
+    },
+    {
+        "Id_Pregunta": 2166172,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "de competencia",
+        "Opciones_B": "depredador – presa",
+        "Opciones_C": "de enfriamiento",
+        "Opciones_D": "juego por la vida",
+        "Opciones_E": null,
+        "Pregunta": "La existencia de dos especies de animales que ocupan el mismo ecosistema, haciendo uso de los mismos recursos, como alimentos o espacio vital, se refiere al modelo:"
+    },
+    {
+        "Id_Pregunta": 2166173,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "13",
+        "Opciones_B": "9",
+        "Opciones_C": "11",
+        "Opciones_D": "15",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen los números pseudoaleatorios: 0.1293107, 0.7729390, 0.0218324, 0.7218461, 0.6334025, 0.6097066, 0.1704806, 0.2698336, 0.6170627, 0.6419852 ¿cuál es el valor del estadístico de la prueba de frecuencias con 5 intérvalos?"
+    },
+    {
+        "Id_Pregunta": 2166174,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "5.806878307",
+        "Opciones_B": "3.007528916",
+        "Opciones_C": "4.382125766",
+        "Opciones_D": "7.905217686",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen los números pseudoaleatorios: 0.9277262, 0.5441142, 0.2729451, 0.8674310, 0.8196144, 0.9526535, 0.5177007, 0.6968153, 0.6825871, 0.7166768 ¿cuál es el valor del estadístico de la prueba del póquer?"
+    },
+    {
+        "Id_Pregunta": 2166175,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "de series",
+        "Opciones_B": "de los promedios",
+        "Opciones_C": "de frecuencias",
+        "Opciones_D": "del póquer",
+        "Opciones_E": null,
+        "Pregunta": "La prueba que divide la matriz (0,1)×(0,1) en n^2 celdas, es la prueba:"
+    },
+    {
+        "Id_Pregunta": 2166176,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "continuo",
+        "Opciones_B": "discreto",
+        "Opciones_C": "determinista",
+        "Opciones_D": "estocástico",
+        "Opciones_E": null,
+        "Pregunta": "La señal de televisión es un claro ejemplo de sistema:"
+    },
+    {
+        "Id_Pregunta": 2166177,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "un par",
+        "Opciones_B": "todos diferentes",
+        "Opciones_C": "dos pares",
+        "Opciones_D": "una tercia",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes figuras del póquer es la que sale con más frecuencia?"
+    },
+    {
+        "Id_Pregunta": 2166178,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "N / n",
+        "Opciones_B": "n / N",
+        "Opciones_C": "(N - 1) / n^2",
+        "Opciones_D": "0.50400",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes fórmulas corresponde a la FE (frecuencia esperada) de la prueba de frecuencias?"
+    },
+    {
+        "Id_Pregunta": 2166179,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "crecer",
+        "Opciones_B": "sobrevivir",
+        "Opciones_C": "morir",
+        "Opciones_D": "nacer",
+        "Opciones_E": null,
+        "Pregunta": "¿Cuál de las siguientes NO es una regla del modelo juego por la vida?"
+    },
+    {
+        "Id_Pregunta": 2166180,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "cuatro o más",
+        "Opciones_B": "cero",
+        "Opciones_C": "cero o una",
+        "Opciones_D": "tres o cuatro",
+        "Opciones_E": null,
+        "Pregunta": "En el modelo juego por la vida para que un habitante de una celda muera, ¿cuántas celdas vecinas ocupadas debe tener?"
+    },
+    {
+        "Id_Pregunta": 2166181,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "juego por la vida",
+        "Opciones_B": "depredador – presa",
+        "Opciones_C": "de enfriamiento",
+        "Opciones_D": "de competencia",
+        "Opciones_E": null,
+        "Pregunta": "Un modelo que imita el desarrollo de una población, con nacimientos y muertes de objetos localizados en una superficie rectangular, dividida por celdas es el modelo:"
+    },
+    {
+        "Id_Pregunta": 2166182,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "2.1889889",
+        "Opciones_B": "1.9155472",
+        "Opciones_C": "0.6998264",
+        "Opciones_D": "2.0390123",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen los números pseudoaleatorios: 0.9277262, 0.5441142, 0.2729451, 0.8674310, 0.8196144, 0.9526535, 0.5177007, 0.6968153, 0.6825871, 0.7166768 ¿cuál es el valor del estadístico de la prueba de los promedios?"
+    },
+    {
+        "Id_Pregunta": 2166183,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "3.227513228",
+        "Opciones_B": "5.030696386",
+        "Opciones_C": "6.992548346",
+        "Opciones_D": "4.521502068",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen los números pseudoaleatorios: 0.1293107, 0.7729390, 0.0218324, 0.7218461, 0.6334025, 0.6097066, 0.1704806, 0.2698336, 0.6170627, 0.6419852 ¿cuál es el valor del estadístico de la prueba del póquer?"
+    },
+    {
+        "Id_Pregunta": 2166184,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "32.66666667",
+        "Opciones_B": "43.77777778",
+        "Opciones_C": "40.44444444",
+        "Opciones_D": "28.22222222",
+        "Opciones_E": null,
+        "Pregunta": "Si se tienen los números pseudoaleatorios: 0.9277262, 0.5441142, 0.2729451, 0.8674310, 0.8196144, 0.9526535, 0.5177007, 0.6968153, 0.6825871, 0.7166768 ¿cuál es el valor del estadístico de la prueba de series con n = 5?"
+    },
+    {
+        "Id_Pregunta": 2166185,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Android",
+        "Opciones_B": "IOS",
+        "Opciones_C": "Windows Phone",
+        "Opciones_D": "Todas las respuestas son correctas",
+        "Opciones_E": null,
+        "Pregunta": "Cuando mencionamos open source nos referimos al Sistema Operativo:"
+    },
+    {
+        "Id_Pregunta": 2166186,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Base de datos para almacenamiento estructurado local",
+        "Opciones_B": "Base de datos para almacenamiento estructurado web",
+        "Opciones_C": "Interfaz estructurada local",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es SQlite?"
+    },
+    {
+        "Id_Pregunta": 2166187,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Postres dulces en inglés, en orden alfabético",
+        "Opciones_B": "Característicos ennumerados",
+        "Opciones_C": "Marcas conocidas de chocolates",
+        "Opciones_D": "Ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Las versiones del Sistema Operativo Android recibían nombres de:"
+    },
+    {
+        "Id_Pregunta": 2166188,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "09 de Febrero 2009",
+        "Opciones_B": "23 de Septiempre 2010",
+        "Opciones_C": "21 de Febrero 2008",
+        "Opciones_D": "20 de Septiempre 2009",
+        "Opciones_E": null,
+        "Pregunta": "La segunda versión comercial de Android fue lanzado el:"
+    },
+    {
+        "Id_Pregunta": 2166189,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "15 de septiembre 2009",
+        "Opciones_B": "23 de Septiempre 2010",
+        "Opciones_C": "21 de Febrero 2009",
+        "Opciones_D": "20 de Septiempre 2009",
+        "Opciones_E": null,
+        "Pregunta": "La cuarta versión comercial de Android fue lanzado el:"
+    },
+    {
+        "Id_Pregunta": 2166190,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "26 de Octubre 2009",
+        "Opciones_B": "23 de Septiempre 2010",
+        "Opciones_C": "21 de Octubre 2009",
+        "Opciones_D": "20 de Septiempre 2009",
+        "Opciones_E": null,
+        "Pregunta": "La quinta versión comercial de Android fue lanzado el:"
+    },
+    {
+        "Id_Pregunta": 2166191,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "20 de Mayo 2010",
+        "Opciones_B": "23 de Septiempre 2010",
+        "Opciones_C": "21 de Octubre 2009",
+        "Opciones_D": "20 de Septiempre 2009",
+        "Opciones_E": null,
+        "Pregunta": "La versión Froyo de Android fue lanzado el:"
+    },
+    {
+        "Id_Pregunta": 2166192,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Pie",
+        "Opciones_B": "Jelly Bean",
+        "Opciones_C": "Gingerbread",
+        "Opciones_D": "Nougat",
+        "Opciones_E": null,
+        "Pregunta": "¿Hasta que versión de Android recibió el nombre de postres dulces en inglés?"
+    },
+    {
+        "Id_Pregunta": 2166193,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Pie",
+        "Opciones_B": "Jelly Bean",
+        "Opciones_C": "Gingerbread",
+        "Opciones_D": "Nougat",
+        "Opciones_E": null,
+        "Pregunta": "¿El SO Android hasta que version recibió el nombre de postres dulces en inglés?"
+    },
+    {
+        "Id_Pregunta": 2166194,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Multitarea",
+        "Opciones_B": "Multiplataforma",
+        "Opciones_C": "Fragmentado",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Una de las ventajas del sistema operativo Android es:"
+    },
+    {
+        "Id_Pregunta": 2166195,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Google Play",
+        "Opciones_B": "App Store",
+        "Opciones_C": "Google Store",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "El sistema operativo Android tiene catálogo de aplicaciones gratuitas o pagas en el que pueden ser descargadas e instaladas desde:"
+    },
+    {
+        "Id_Pregunta": 2166196,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Diciembre 2010",
+        "Opciones_B": "Enero 2008",
+        "Opciones_C": "Diciembre 1972",
+        "Opciones_D": "Febrero 2010",
+        "Opciones_E": null,
+        "Pregunta": "AppInventor fue liberado al público en diciembre en:"
+    },
+    {
+        "Id_Pregunta": 2166197,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Google",
+        "Opciones_B": "Linux",
+        "Opciones_C": "Windows",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "AppInventor fue creado por:"
+    },
+    {
+        "Id_Pregunta": 2166198,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Google",
+        "Opciones_B": "Linux",
+        "Opciones_C": "Windows",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "AppInventor fue creado por:"
+    },
+    {
+        "Id_Pregunta": 2166199,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Java mediante el marco de trabajo Kawa",
+        "Opciones_B": "Visual Basic mediante Visual Studio",
+        "Opciones_C": "C++",
+        "Opciones_D": "Todas las respuestas son correctas",
+        "Opciones_E": null,
+        "Pregunta": "Los bloques de AppInventor son convertidos al lenguaje:"
+    },
+    {
+        "Id_Pregunta": 2166200,
+        "Opcion_Correcta": "A",
+        "Opciones_A": ".apk",
+        "Opciones_B": ".exe",
+        "Opciones_C": ".dll",
+        "Opciones_D": ".aia",
+        "Opciones_E": null,
+        "Pregunta": "El archivo requerido por la Google play es:"
+    },
+    {
+        "Id_Pregunta": 2166201,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es un sistema operativo móvil basado en Linux",
+        "Opciones_B": "Es un sistema operativo móvil basado en Windows",
+        "Opciones_C": "Es un sistema operativo móvil basado en Filmora",
+        "Opciones_D": "Es un sistema operativo Web basado en IOS",
+        "Opciones_E": null,
+        "Pregunta": "¿Qué es el sistema operativo Android?"
+    },
+    {
+        "Id_Pregunta": 2166202,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "2005",
+        "Opciones_B": "1905",
+        "Opciones_C": "2010",
+        "Opciones_D": "2000",
+        "Opciones_E": null,
+        "Pregunta": "Google respaldó económicamente y compró el sistema operativo en el año:"
+    },
+    {
+        "Id_Pregunta": 2166203,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "2007",
+        "Opciones_B": "2017",
+        "Opciones_C": "2005",
+        "Opciones_D": "1975",
+        "Opciones_E": null,
+        "Pregunta": "En un consorcio de compañías de Hardware, Software y Telecomunicaciones, Android fue presentado el año:"
+    },
+    {
+        "Id_Pregunta": 2166204,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "2008",
+        "Opciones_B": "1998",
+        "Opciones_C": "2000",
+        "Opciones_D": "2007",
+        "Opciones_E": null,
+        "Pregunta": "El primer móvil con el sistema operativo Android se vendió el año:"
+    },
+    {
+        "Id_Pregunta": 2166205,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "open source",
+        "Opciones_B": "key sensitive",
+        "Opciones_C": "multi platform",
+        "Opciones_D": "old",
+        "Opciones_E": null,
+        "Pregunta": "Este sistema operativo Android es:"
+    },
+    {
+        "Id_Pregunta": 2166206,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Android 1.0",
+        "Opciones_B": "Android 0.0",
+        "Opciones_C": "Android Basic",
+        "Opciones_D": "Android 1.1",
+        "Opciones_E": null,
+        "Pregunta": "La primera versión del sistema operativo Android es:"
+    },
+    {
+        "Id_Pregunta": 2166207,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "JAVA",
+        "Opciones_B": "SQL",
+        "Opciones_C": "PHP",
+        "Opciones_D": "PYTHON",
+        "Opciones_E": null,
+        "Pregunta": "Las aplicaciones del sistema operativo Android están escritas en lenguaje de programación:"
+    },
+    {
+        "Id_Pregunta": 2166208,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Webkit",
+        "Opciones_B": "MPEG4",
+        "Opciones_C": "GPS",
+        "Opciones_D": "Amr",
+        "Opciones_E": null,
+        "Pregunta": "El sistema operativo Android esta basado en el motor open Source:"
+    },
+    {
+        "Id_Pregunta": 2166209,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "postres dulces en Inglés",
+        "Opciones_B": "numeraciones pares",
+        "Opciones_C": "nombres de la pelicula ToyStory",
+        "Opciones_D": "nombre Beta, Gama",
+        "Opciones_E": null,
+        "Pregunta": "Las versiones de Android recibían el nombre de:"
+    },
+    {
+        "Id_Pregunta": 2166210,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Donut (v1.6)",
+        "Opciones_B": "Gingerbread (v2.3)",
+        "Opciones_C": "Jelly Bean (v4.1/v4.2)",
+        "Opciones_D": "Éclair (v2.0/v2.1)",
+        "Opciones_E": null,
+        "Pregunta": "La cuarta version del sistema operativo Android es:"
+    },
+    {
+        "Id_Pregunta": 2166211,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "diciembre 2010",
+        "Opciones_B": "abril 2010",
+        "Opciones_C": "noviembre 2015",
+        "Opciones_D": "enero 2011",
+        "Opciones_E": null,
+        "Pregunta": "AppInventor fue Liberada al público en:"
+    },
+    {
+        "Id_Pregunta": 2166212,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Google",
+        "Opciones_B": "Scratch",
+        "Opciones_C": "Linux",
+        "Opciones_D": "Windows",
+        "Opciones_E": null,
+        "Pregunta": "AppInventor fue creada por:"
+    },
+    {
+        "Id_Pregunta": 2166213,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "MIT",
+        "Opciones_B": "SUN",
+        "Opciones_C": "WebKit",
+        "Opciones_D": "GNome",
+        "Opciones_E": null,
+        "Pregunta": "AppInventor En diciembre de 2011 fue cedida al:"
+    },
+    {
+        "Id_Pregunta": 2166214,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Clock",
+        "Opciones_B": "Slider",
+        "Opciones_C": "Timer",
+        "Opciones_D": "Minute",
+        "Opciones_E": null,
+        "Pregunta": "El Reloj es uno de los componentes más importantes en la programación y por lo tanto uno de los que más utilizarás, por lo tanto tendrás que aprender bien como utilizarlo en App Inventor."
+    },
+    {
+        "Id_Pregunta": 2166215,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Permite crear colores RGB.",
+        "Opciones_B": "Permite Separar colores",
+        "Opciones_C": "Permite crear una variable de tipo color",
+        "Opciones_D": "No se puede crear una lista para definir colores",
+        "Opciones_E": null,
+        "Pregunta": "Bloque para crear color… construye una lista con 3 valores"
+    },
+    {
+        "Id_Pregunta": 2166216,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Ejecutar, resultado y llamar al procedimiento",
+        "Opciones_B": "Tomar, poner, inicializar global",
+        "Opciones_C": "Asignar, Retornar, multiple, simple",
+        "Opciones_D": "Facil, dificil, general, comun, miscelaneo",
+        "Opciones_E": null,
+        "Pregunta": "Existen bloques de tipo procedimientos para:"
+    },
+    {
+        "Id_Pregunta": 2166217,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Crear lista, pregunta, seleccion y deslizable",
+        "Opciones_B": "Ejecutar, resultado y llamar al procedimiento",
+        "Opciones_C": "Crear lista, cuestionario, seleccion , variables globales",
+        "Opciones_D": "Ordenar lista, Timer, seleccion y deslizable",
+        "Opciones_E": null,
+        "Pregunta": "En el avance de la materia, usamos 4 tipos de listas"
+    },
+    {
+        "Id_Pregunta": 2166218,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "if then, check box, image",
+        "Opciones_B": "List View, Image, Repeat",
+        "Opciones_C": "Spiner, ListPicker, image",
+        "Opciones_D": "ListView, ListPicker, image, button",
+        "Opciones_E": null,
+        "Pregunta": "En el tipo de lista ¨Crear Lista¨ usamos los bloques y componentes"
+    },
+    {
+        "Id_Pregunta": 2166219,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Spinner, ListPicker, Image, Button, AfterSelecting, AfterPicking, Initialize global, make list....",
+        "Opciones_B": "ListView, ListPicker, image, button..",
+        "Opciones_C": "if then, check box, image...",
+        "Opciones_D": "AfterPicking, Initialize global, make list, image, button...",
+        "Opciones_E": null,
+        "Pregunta": "En el tipo de lista ¨Deslizable¨ usamos los bloques y componentes"
+    },
+    {
+        "Id_Pregunta": 2166220,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "ListView, TexBox, Initialize global, label, button...",
+        "Opciones_B": "ListView, ListPicker, image, button..",
+        "Opciones_C": "Spinner, ListPicker, Image, Button",
+        "Opciones_D": "AfterPicking, Initialize global",
+        "Opciones_E": null,
+        "Pregunta": "En el tipo de lista ¨Crear Lista ¨ usamos los bloques y componentes"
+    },
+    {
+        "Id_Pregunta": 2166221,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Button, Label, initialize global, random, select list item list, make list, if then else, suma y resta",
+        "Opciones_B": "Spinner, ListPicker, Image, Button, AfterSelecting, AfterPicking, Initialize global, make list....",
+        "Opciones_C": "ListView, ListPicker, image, button..",
+        "Opciones_D": "if then, check box, image...",
+        "Opciones_E": null,
+        "Pregunta": "En el tipo de lista ¨Pregunta ¨ usamos los bloques y componentes"
+    },
+    {
+        "Id_Pregunta": 2166222,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "StoreValue, tag, valueToStore, texBox, Button, Label, getValue",
+        "Opciones_B": "StoreValue, tag, valueToStore",
+        "Opciones_C": "AfterPicking, Initialize global",
+        "Opciones_D": "if then, check box, image",
+        "Opciones_E": null,
+        "Pregunta": "Para base de datos, usamos los bloques y componentes"
+    },
+    {
+        "Id_Pregunta": 2166223,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "StoreValue , GetValue",
+        "Opciones_B": "AfterPicking, Initialize global",
+        "Opciones_C": "tag, valueToInt",
+        "Opciones_D": "fterPicking, Initialize global, make lis",
+        "Opciones_E": null,
+        "Pregunta": "Métodos de TinyDB (Base de datos temporal)"
+    },
+    {
+        "Id_Pregunta": 2166224,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "GotoUrl (url de texto), GoHome (), GoForward (), GoBack (), boolean CanGoBack (), boolean CanGoForward ()",
+        "Opciones_B": "GoHome (), GoForward (), GoBack (), boolean CanGoForward (),texBox, Button, Label, getValue",
+        "Opciones_C": "boolean CanGoBack (), boolean CanGoForward ()",
+        "Opciones_D": "StoreValue, tag, valueToStore, texBox, Button, Label, getValue, boolean CanGoBack (), boolean CanGoForward ()",
+        "Opciones_E": null,
+        "Pregunta": "Métodos del Componente WebView"
+    },
+    {
+        "Id_Pregunta": 2166225,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "AccelerationChanged , Agitación ()",
+        "Opciones_B": "GoHome (), GoForward (), GoBack (), boolean CanGoForward (),texBox, Button, Label, getValue",
+        "Opciones_C": "boolean CanGoBack (), boolean CanGoForward ()",
+        "Opciones_D": "XAccel,YAccel,ZAccel",
+        "Opciones_E": null,
+        "Pregunta": "Eventos del AccelerometerSensor"
+    },
+    {
+        "Id_Pregunta": 2166226,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "true, false, not, igualdad, diferente que , and , or",
+        "Opciones_B": "igualdad, diferente, mayor que, menor que, mayor, menor",
+        "Opciones_C": "+,-,*,/,potencia, true, false, not,",
+        "Opciones_D": "Randon, minimo, sin, cos, tan",
+        "Opciones_E": null,
+        "Pregunta": "Bloques lógicos"
+    },
+    {
+        "Id_Pregunta": 2166227,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "initialize global, get, set, iitialize local",
+        "Opciones_B": "GoHome (), GoForward (), GoBack (),",
+        "Opciones_C": "XAccel,YAccel,ZAccel",
+        "Opciones_D": "to procedure do, to procedure result",
+        "Opciones_E": null,
+        "Pregunta": "Bloques variables"
+    },
+    {
+        "Id_Pregunta": 2166228,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "to procedure do, to procedure result",
+        "Opciones_B": "initialize global, get, set, iitialize local",
+        "Opciones_C": "GoHome (), GoForward (), GoBack (),",
+        "Opciones_D": "XAccel,YAccel,ZAccel",
+        "Opciones_E": null,
+        "Pregunta": "Bloques Procedures"
+    },
+    {
+        "Id_Pregunta": 2166229,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Clock, TinyWebDb, AccelerometerSensor, TextoSpeeck",
+        "Opciones_B": "WebViewer, ListView, Spinner, Slider",
+        "Opciones_C": "Clock, TinyWebDb, AccelerometerSensor, WebViewer, Slider",
+        "Opciones_D": "AccelerometerSensor, TextoSpeeck, WebViewer, Image",
+        "Opciones_E": null,
+        "Pregunta": "Ejemplos Componentes no visibles"
+    },
+    {
+        "Id_Pregunta": 2166230,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Los sistemas existen dentro de sistemas, los sistemas son abiertos y las funciones de un sistema dependen de su estructura.",
+        "Opciones_B": "Los sistemas existen fuera de sistemas, los sistemas son abiertos y las funciones de un sistema dependen de su estructura.",
+        "Opciones_C": "Los sistemas existen dentro de sistemas, los sistemas son cerrados y las funciones de un sistema dependen de su estructura.",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son las tres premisas básicas de la Teoría General de Sistemas?"
+    },
+    {
+        "Id_Pregunta": 2166231,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es una pieza compuesta cuyos componentes se relacionan con al menos algún otro componente. Puede ser material o conceptual.",
+        "Opciones_B": "Es un objeto compuesto cuyos componentes se relacionan con al menos algún otro componente. Puede ser material o conceptual.",
+        "Opciones_C": "Es un objeto compuesto cuyos componentes que no se relacionan con al menos algún otro componente. Puede ser material o conceptual.",
+        "Opciones_D": "Es un objeto no compuesto cuyos componentes se relacionan con al menos algún otro componente. Puede ser material o conceptual.",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la opción correcta que contemple la definición exacta de Sistema:"
+    },
+    {
+        "Id_Pregunta": 2166232,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "La retroalimentación",
+        "Opciones_B": "Las Salidas",
+        "Opciones_C": "El ambiente",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A cuál de estos componentes pertenece este concepto?: ____ abarca la información que se brinda a partir del desempeño del producto, la cual permite en caso de desviación del plan, determinar por qué se produjo y los ajustes que sería recomendable hacer."
+    },
+    {
+        "Id_Pregunta": 2166233,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Nueve niveles",
+        "Opciones_B": "Ocho niveles",
+        "Opciones_C": "Séptimo niveles",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "La clasificación jerárquica de los sistemas según Boulding para el siguiente ordenamiento jerárquico. ¿Cuántos niveles contiene?"
+    },
+    {
+        "Id_Pregunta": 2166234,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistemas cerrados",
+        "Opciones_B": "Sistemas abiertos",
+        "Opciones_C": "Ninguno",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A qué clasificación jerárquica pertenece este concepto?: En los ____ el proceso normalmente es secreto, desconocido para la mayoría y solamente accesibles a los técnicos."
+    },
+    {
+        "Id_Pregunta": 2166235,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Sistemas cerrados",
+        "Opciones_B": "Sistemas abiertos",
+        "Opciones_C": "Ninguno",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A qué clasificación jerárquica pertenece este concepto?: Se llaman ___ a todas las estructuras, en las que intervienen seres humanos o sus sociedades, y que tienen íntima relación con el medio o ambiente en el que están inmersos."
+    },
+    {
+        "Id_Pregunta": 2166236,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Retroacción",
+        "Opciones_B": "La Adaptación",
+        "Opciones_C": "Equifinalidad",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A qué característica de un sistema pertenece este concepto?: Debido a la __, los sistemas abiertos se comportan de una forma característica evitando desviaciones que pondrían en peligro su proceso teleológico."
+    },
+    {
+        "Id_Pregunta": 2166237,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Retroacción",
+        "Opciones_B": "Adaptación",
+        "Opciones_C": "Información",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A qué característica de un sistema pertenece este concepto?: La ___ es el alma del sistema. El sistema no puede funcionar sin información exterior, del medio, ni sin el trasvase de información entre sus componentes."
+    },
+    {
+        "Id_Pregunta": 2166238,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "retroaccion",
+        "Opciones_B": "entropía",
+        "Opciones_C": "homeostásis",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A que característica de un sistema pertenece este concepto?:Se define ____, como la auto regulación de la constancia de las propiedades de otros sistemas influidos por agentes exteriores."
+    },
+    {
+        "Id_Pregunta": 2166239,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "La clasificación de un sistema al igual que el análisis de los aspectos del mismo es un proceso relativo",
+        "Opciones_B": "La clasificación de un sistema al igual que el análisis de los aspectos del mismo es un proceso absoluto",
+        "Opciones_C": "ninguno",
+        "Opciones_D": "La clasificación de un sistema al igual que el análisis de los aspectos del mismo es un proceso abstracto",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición de clasificación de sistema generales:"
+    },
+    {
+        "Id_Pregunta": 2166240,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Medio Ambiente",
+        "Opciones_B": "Naturaleza",
+        "Opciones_C": "Origen",
+        "Opciones_D": "Modular",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la clasificación de sistema generales según su relación excepto:"
+    },
+    {
+        "Id_Pregunta": 2166241,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Medio Ambiente",
+        "Opciones_B": "Base de Datos",
+        "Opciones_C": "Modular",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la clasificación de sistema generales según su relación:"
+    },
+    {
+        "Id_Pregunta": 2166242,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Sistema Cerrado",
+        "Opciones_B": "Sistema Concreto",
+        "Opciones_C": "Sistema Modular",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Sistemas que intercambian materia, energía o información con el ambiente es una definición de:"
+    },
+    {
+        "Id_Pregunta": 2166243,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistemas que intercambian materia, energía o información con el ambiente",
+        "Opciones_B": "Sistemas que no intercambian materia, energía o información con el ambiente",
+        "Opciones_C": "Sistema físico o tangible",
+        "Opciones_D": "Sistemas simbólicos o conceptuales",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición de un sistema abierto:"
+    },
+    {
+        "Id_Pregunta": 2166244,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistema Cerrado",
+        "Opciones_B": "Sistema Abierto",
+        "Opciones_C": "Sistema Concreto",
+        "Opciones_D": "Sistema Abstracto",
+        "Opciones_E": null,
+        "Pregunta": "Sistemas que no intercambian materia, energía o información con el ambiente es una definición de:"
+    },
+    {
+        "Id_Pregunta": 2166245,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Sistemas que intercambian materia, energía o información con el ambiente",
+        "Opciones_B": "Sistemas que son productos de la actividad humana, son concebidos y construidos por el hombre",
+        "Opciones_C": "Sistemas con pocos elementos y relaciones",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición del sistema cerrado:"
+    },
+    {
+        "Id_Pregunta": 2166246,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "No intercambia materia",
+        "Opciones_B": "No intercambia energía",
+        "Opciones_C": "No intercambia información",
+        "Opciones_D": "Todos",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione lo que es un sistema cerrado:"
+    },
+    {
+        "Id_Pregunta": 2166247,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Sistema Concreto",
+        "Opciones_B": "Sistema Abstracto",
+        "Opciones_C": "Sistema Artificial",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "El Universo es un ejemplo de:"
+    },
+    {
+        "Id_Pregunta": 2166248,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistema Abierto",
+        "Opciones_B": "Sistema Cerrado",
+        "Opciones_C": "Sistema Concreto",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "El ser humano es un ejemplo de:"
+    },
+    {
+        "Id_Pregunta": 2166249,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Sistema Dinámico",
+        "Opciones_B": "Sistema Estático",
+        "Opciones_C": "Ninguno",
+        "Opciones_D": "Todos",
+        "Opciones_E": null,
+        "Pregunta": "El sistema numérico decimal es un ejemplo de:"
+    },
+    {
+        "Id_Pregunta": 2166250,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Naturales y artificiales",
+        "Opciones_B": "Estático y dinámico",
+        "Opciones_C": "Concreto y abstracto",
+        "Opciones_D": "Abierto y Cerrado",
+        "Opciones_E": null,
+        "Pregunta": "Seleccionar la clasificación según su origen:"
+    },
+    {
+        "Id_Pregunta": 2166251,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Abierto y Cerrado",
+        "Opciones_B": "Concreto y Abstracto",
+        "Opciones_C": "Concreto y Cerrado",
+        "Opciones_D": "Abstracto y abierto",
+        "Opciones_E": null,
+        "Pregunta": "Seleccionar la clasificación según su naturaleza:"
+    },
+    {
+        "Id_Pregunta": 2166252,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Simple y complejos",
+        "Opciones_B": "Abierto y Cerrado",
+        "Opciones_C": "Concreto y abstracto",
+        "Opciones_D": "Estático y dinámico",
+        "Opciones_E": null,
+        "Pregunta": "Seleccionar la clasificación según su cambio de tiempo:"
+    },
+    {
+        "Id_Pregunta": 2166253,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Abierto y Cerrado",
+        "Opciones_B": "Discreto y Continuo",
+        "Opciones_C": "Ninguno",
+        "Opciones_D": "Todos",
+        "Opciones_E": null,
+        "Pregunta": "Seleccionar la clasificación según el tipo de variable que lo define:"
+    },
+    {
+        "Id_Pregunta": 2166254,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistema de Control con retroalimentación",
+        "Opciones_B": "Sistema Determinístico",
+        "Opciones_C": "Sistema Probabilístico",
+        "Opciones_D": "Sistema Jerárquico",
+        "Opciones_E": null,
+        "Pregunta": "Sistema de control en el cual elementos controlados envían información sobre su estado a los elementos controladores es una definición de:"
+    },
+    {
+        "Id_Pregunta": 2166255,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistema de control en el cual elementos controlados envían información sobre su estado a los elementos controladores",
+        "Opciones_B": "Sistemas cuyos elementos están relacionados mediante relaciones de dependencia o subordinación conformando una organización por niveles",
+        "Opciones_C": "Todos",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición de Sistema de Control con retroalimentación:"
+    },
+    {
+        "Id_Pregunta": 2166256,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistema Jerárquico",
+        "Opciones_B": "Sistemas de información de espionaje",
+        "Opciones_C": "Sistema de Control con retroalimentación",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Sistemas cuyos elementos están relacionados mediante relaciones de dependencia o subordinación conformando una organización por niveles es una definición de:"
+    },
+    {
+        "Id_Pregunta": 2166257,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistema con un comportamiento previsible",
+        "Opciones_B": "Sistema con un comportamiento no previsible",
+        "Opciones_C": "Sistema definido por variables discretas",
+        "Opciones_D": "Sistema de Control con retroalimentación",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición de sistema determinístico:"
+    },
+    {
+        "Id_Pregunta": 2166258,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistemas Complejos",
+        "Opciones_B": "Sistemas Cerrados",
+        "Opciones_C": "Sistema Abierto",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Sistemas con numerosos elementos y relaciones es la definición de:"
+    },
+    {
+        "Id_Pregunta": 2166259,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Depende de su capacidad para adaptarse, cambiar y responder a las exigencias y demandas del medio ambiente externo",
+        "Opciones_B": "Depende de su capacidad para controlar, rapidez y mensaje y demandas del medio ambiente externo",
+        "Opciones_C": "Todos",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición de Supervivencia de un Sistema:"
+    },
+    {
+        "Id_Pregunta": 2166260,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Adaptarse, cambiar",
+        "Opciones_B": "Responder a las exigencias y demandas del medio ambiente externo",
+        "Opciones_C": "Todos",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione las capacidades de la supervivencia de Sistema:"
+    },
+    {
+        "Id_Pregunta": 2166261,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Adaptarse, cambiar",
+        "Opciones_B": "Responder a las exigencias y demandas del medio ambiente externo",
+        "Opciones_C": "Todos",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione las capacidades de la supervivencia de Sistema excepto:"
+    },
+    {
+        "Id_Pregunta": 2166262,
+        "Opcion_Correcta": "E",
+        "Opciones_A": "Entrada",
+        "Opciones_B": "Almacenamiento",
+        "Opciones_C": "Procesamiento",
+        "Opciones_D": "Salida de información",
+        "Opciones_E": "Ninguna",
+        "Pregunta": "Seleccione las actividades de un sistema de información excepto:"
+    },
+    {
+        "Id_Pregunta": 2166263,
+        "Opcion_Correcta": "E",
+        "Opciones_A": "Entrada",
+        "Opciones_B": "Almacenamiento",
+        "Opciones_C": "Procesamiento",
+        "Opciones_D": "Salida de información",
+        "Opciones_E": "Todos",
+        "Pregunta": "Seleccione las actividades de un sistema de información:"
+    },
+    {
+        "Id_Pregunta": 2166264,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es el proceso mediante el cual el Sistema de Información toma los datos que requiere para procesar la información.",
+        "Opciones_B": "Es una de las actividades o capacidades más importantes que tiene una computadora, ya que a través de esta propiedad el sistema puede recordar la información guardada en la sección o proceso anterior.",
+        "Opciones_C": "Es la capacidad del Sistema de Información para efectuar cálculos de acuerdo con una secuencia de operaciones preestablecida.",
+        "Opciones_D": "Ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición de la entrada de sistema:"
+    },
+    {
+        "Id_Pregunta": 2166265,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Manuales",
+        "Opciones_B": "Automáticas",
+        "Opciones_C": "Todas",
+        "Opciones_D": "Ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Las entradas pueden ser:"
+    },
+    {
+        "Id_Pregunta": 2166266,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Manuales",
+        "Opciones_B": "Automáticas",
+        "Opciones_C": "Todas",
+        "Opciones_D": "Ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Son aquellas que se proporcionan en forma directa por el usuario. Seleccione el tipo de entrada:"
+    },
+    {
+        "Id_Pregunta": 2166267,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Manual",
+        "Opciones_B": "Todas",
+        "Opciones_C": "Ninguna",
+        "Opciones_D": "Automáticas",
+        "Opciones_E": null,
+        "Pregunta": "Son datos o información que provienen o son tomados de otros sistemas o módulos. Seleccione de qué tipo de entrada es:"
+    },
+    {
+        "Id_Pregunta": 2166268,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Se produce cuando las salidas del sistema o la influencia de las salidas del sistema en el contexto, vuelven a ingresar al sistema como recursos o información.",
+        "Opciones_B": "Es una forma de control de los sistemas, donde dicho control se realiza a la entrada del sistema, de tal manera que el mismo no tenga entradas corruptas o malas.",
+        "Opciones_C": "Ninguna",
+        "Opciones_D": "Todas",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición de retroalimentación:"
+    },
+    {
+        "Id_Pregunta": 2166269,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Homeostasis",
+        "Opciones_B": "Retroalimentación",
+        "Opciones_C": "Estabilidad",
+        "Opciones_D": "Adaptabilidad",
+        "Opciones_E": null,
+        "Pregunta": "Es la propiedad de un sistema que define su nivel de respuesta y de adaptación al contexto. Es la definición de:"
+    },
+    {
+        "Id_Pregunta": 2166270,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Es la propiedad de un sistema que define su nivel de respuesta y de adaptación al contexto.",
+        "Opciones_B": "Un sistema mide la interacción que este recibe del medio.",
+        "Opciones_C": "Es aquel en el cual su nivel de coherencia interna hace que un cambio producido en cualquiera de sus subsistemas produzca cambios en los demás subsistemas y hasta en el sistema mismo.",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición de Homeostasis:"
+    },
+    {
+        "Id_Pregunta": 2166271,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Estabilidad",
+        "Opciones_B": "Homeostasis",
+        "Opciones_C": "Retroalimentación",
+        "Opciones_D": "Adaptabilidad",
+        "Opciones_E": null,
+        "Pregunta": "Un sistema se dice estable cuando puede mantenerse en equilibrio a través del flujo continuo de materiales, energía e información. Es la definición de:"
+    },
+    {
+        "Id_Pregunta": 2166272,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Un sistema se dice estable cuando puede mantenerse en equilibrio a través del flujo continuo de materiales, energía e información.",
+        "Opciones_B": "Es la propiedad que tiene un sistema de aprender y modificar un proceso.",
+        "Opciones_C": "Es la propiedad que tiene un sistema de mantenerse constantemente en funcionamiento.",
+        "Opciones_D": "Todos",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione la definición de estabilidad:"
+    },
+    {
+        "Id_Pregunta": 2166273,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Sistemas transaccionales",
+        "Opciones_B": "Sistemas de soporte",
+        "Opciones_C": "Sistemas Estratégicos",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Son sistemas de información desarrollados en las organizaciones con el fin de lograr ventajas competitivas, a través del uso de la tecnología de información. Es la definición de:"
+    },
+    {
+        "Id_Pregunta": 2166274,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Sistemas transaccionales",
+        "Opciones_B": "Sistemas de soporte",
+        "Opciones_C": "Sistemas Estratégicos",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "Son Sistemas de Información que logran la automatización de procesos operativos dentro de una organización ya que su función primordial consiste en procesar transacciones tales como pagos, cobros, entradas, salidas, etc. Es la definición de:"
+    },
+    {
+        "Id_Pregunta": 2166275,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Estratégico",
+        "Opciones_B": "De soporte",
+        "Opciones_C": "Transaccional",
+        "Opciones_D": "Ninguno",
+        "Opciones_E": null,
+        "Pregunta": "El módulo de compras es un sistema:"
+    },
+    {
+        "Id_Pregunta": 2166276,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Objetivos",
+        "Opciones_B": "Problemas",
+        "Opciones_C": "soluciones",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Completar el siguiente enunciado: En un proyecto la consecucion de los _____ al final del mismo es la maxima deseada, pero la mayor parte de las veces, bien por una mala planificacion, o bien por una mala gestion de los recursos, es imposible finalizar el proyecto con exito."
+    },
+    {
+        "Id_Pregunta": 2166277,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Entorno,cliente,equipo,fases",
+        "Opciones_B": "Entorno,jefe de equipo, elemento",
+        "Opciones_C": "Entorno,cliente,elemento",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿Que condiciones debe cumplir un proyecto ideal?"
+    },
+    {
+        "Id_Pregunta": 2166278,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Cliente",
+        "Opciones_B": "Equipo",
+        "Opciones_C": "Fases",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Completar la siguiente definicion: ___ tiene muy claro que es lo que se necesita, sabe transmitirlo y nosotros entendemos perfectamente sus necesidades."
+    },
+    {
+        "Id_Pregunta": 2166279,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Cliente",
+        "Opciones_B": "Equipo",
+        "Opciones_C": "Fases",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Completar la siguiente definicion: ___ dispone de un equipo de profesionales necesario para poder atender a esa necesidad y ademas sabe como resolverla."
+    },
+    {
+        "Id_Pregunta": 2166280,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "se hace una toma de requerimientos al principio de nuestro proyecto y no seria necesaria ninguna reunion mas hasta la entrega final",
+        "Opciones_B": "Se crea la documentacion necesaria en cada fase, y se hace entrega de ella a las fases siguientes",
+        "Opciones_C": "El cliente ya tiene su producto y este se ajusta a lo indicado, por lo tanto no hay modificaciones que realizar sobre el.",
+        "Opciones_D": "Todos los incisos",
+        "Opciones_E": "Ninguno",
+        "Pregunta": "Durante las fases.¿Que actividades se deben realizar?"
+    },
+    {
+        "Id_Pregunta": 2166281,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Gestion de proyectos",
+        "Opciones_B": "Gestion de elemento",
+        "Opciones_C": "Gestion de usuarios",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Completar el siguiente enunciado: ____ es la disciplina de planear, organizar, asegurar y coordinar recursos y personas para cumplir con los objetivos, entregables y criterios de exito de los proyectos."
+    },
+    {
+        "Id_Pregunta": 2166282,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Los ciclos de vida",
+        "Opciones_B": "Gestion de elemento",
+        "Opciones_C": "Gestion de usuarios",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Completar el siguiente enunciado: ____ de un proyecto serviran para definir el comienzo y el final del mismo, se usa como vinculo con las distintas tareas que se realizan dentro de la empresa u organizacion"
+    },
+    {
+        "Id_Pregunta": 2166283,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "requisitos a diseño, construccion a operaciones o de diseño a implementacion",
+        "Opciones_B": "requisitos a diseño y diseño de pruebas",
+        "Opciones_C": "requisitos a diseño y diseño de fallas",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Las fases definidas por la mayoria de los ciclos de vida de proyectos en general incluyen alguna forma de transferencia de tecnologia, tales como:"
+    },
+    {
+        "Id_Pregunta": 2166284,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "salidas de fase, puntos de impacto o puertas de etapas",
+        "Opciones_B": "salida de fallas, etapas en espera",
+        "Opciones_C": "puntos de impacto y etapas de pruebas",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿Como suele llamarse las evaluaciones de cada final de fase?"
+    },
+    {
+        "Id_Pregunta": 2166285,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "fase inicial,definicion,ejecucion,entrega, soporte y mantenimiento, y luego el cierre del proyecto",
+        "Opciones_B": "fase inicial,fase de entrega",
+        "Opciones_C": "fase inicial,fase de soporte, fase final",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "El enfoque de ciclo de vida mas usado en las ciencias de la informacion es el que usa las siguientes fases definidas en funcion a los recursos, estas fases son:"
+    },
+    {
+        "Id_Pregunta": 2166286,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Los metodos",
+        "Opciones_B": "Las Fases",
+        "Opciones_C": "Documentacion",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A que elemento basico de una metodologia pertenece el siguiente enunciado?: ___ Se tendra que identificar el modo en el que se realizara el proceso de desarrollo del producto software.Generalmente se suele descomponer los procesos en tareas mas pequeñas."
+    },
+    {
+        "Id_Pregunta": 2166287,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Los metodos",
+        "Opciones_B": "Las Fases",
+        "Opciones_C": "Tecnicas y herramientas",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A que elemento basico de una metodologia pertenece el siguiente enunciado?: ___ indicaran como se deberia de resolver cada tarea y que herramientas podriamos usar.Entre los tipos de tecnicas se encuentran la recopilacion de datos, tecnicas graficas y tecnicas de modelado."
+    },
+    {
+        "Id_Pregunta": 2166288,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Los metodos",
+        "Opciones_B": "La documentacion",
+        "Opciones_C": "Tecnicas y herramientas",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A que elemento basico de una metodologia pertenece el siguiente enunciado?: ___ se entrega durante todas las fases, de una manera exhaustiva y completa usando todos los valores de entrada y salida que se van generando, esto servira para recoger los resultados y tomar decisiones de las diferentes situaciones planteadas."
+    },
+    {
+        "Id_Pregunta": 2166289,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Los metodos",
+        "Opciones_B": "Control y evaluacion",
+        "Opciones_C": "Tecnicas y herramientas",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A que elemento basico de una metodologia pertenece el siguiente enunciado?: ___ tambien se debe realizar a lo largo de todo el ciclo de vida. Consistira en comprobar y aceptar o denegar todos los resultados que se vayan obteniendo y poder replantear, si es necesario, una nueva planificacion de las tareas asignadas,se usan tecnicas como Pert o diagramas de Gannt"
+    },
+    {
+        "Id_Pregunta": 2166290,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "facilitan la planificacion",
+        "Opciones_B": "facilitan el control y el seguimiento adecuado del proyecto",
+        "Opciones_C": "mejoran el uso de los recursos",
+        "Opciones_D": "todos los incisos",
+        "Opciones_E": "ninguno",
+        "Pregunta": "¿Cuales son algunas de las ventajas que aporta el uso de una metodologia para crear un producto?"
+    },
+    {
+        "Id_Pregunta": 2166291,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Metodologias agiles",
+        "Opciones_B": "Metodologias pesadas",
+        "Opciones_C": "Metodologias hibridas",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿Que tipo de metodologia pertenece dicho enunciado?:\"Se basan en dar respuestas a los problemas con los que se encuentran las metodologias tradicionales. Usan el concepto de adaptacion a los requisitos que no se conocen en lugar de la prediccion\""
+    },
+    {
+        "Id_Pregunta": 2166292,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Metodologias agiles",
+        "Opciones_B": "Metodologias orientadas a objetos",
+        "Opciones_C": "Metodologias hibridas",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿Que tipo de metodologia pertenece dicho enunciado?:\"Basado en la orientacion de objetos. Se desarrolla alrededor del concepto de clase\""
+    },
+    {
+        "Id_Pregunta": 2166293,
+        "Opcion_Correcta": "C",
+        "Opciones_A": "Metodologia agil",
+        "Opciones_B": "Metodologia orientada a objetos",
+        "Opciones_C": "Metodologia en cascada",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A que metodologia pertenece dicho enunciado?:\"___ se caracteriza porque todas las fases se realizan de forma secuencial, es decir que las etapas se llevan a cabo una despues de la otra, pero cada etapa debe estar finalizada antes de comenzar la siguiente\""
+    },
+    {
+        "Id_Pregunta": 2166294,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Metodologia RUP",
+        "Opciones_B": "Metodologia orientada a objetos",
+        "Opciones_C": "Metodologia en cascada",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A que metodologia pertenece dicho enunciado?:\"___ se basa en un marco de procesos de trabajo que pueden ser adaptados por las organizaciones, es una combinacion de varias metodologias, se usa el UML\""
+    },
+    {
+        "Id_Pregunta": 2166295,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Es necesario conocer desde el inicio que desea el cliente",
+        "Opciones_B": "Excesiva documentacion que a veces incluso no se utiliza",
+        "Opciones_C": "la lentitud del desarrollo",
+        "Opciones_D": "todos los incisos",
+        "Opciones_E": "ninguno",
+        "Pregunta": "¿Cuales son algunas de las desventajas de una metodologia convencional o tradicional que se puede observar en la elaboracion de proyectos?"
+    },
+    {
+        "Id_Pregunta": 2166296,
+        "Opcion_Correcta": "D",
+        "Opciones_A": "Gran capacidad de respuesta ante los cambios,para que el producto sea mejor y satisfaga al cliente.",
+        "Opciones_B": "Los ciclos cortos de entrega ayudaran a disminuir los riesgos sobre todo al principio del proyecto",
+        "Opciones_C": "Se trabaja en equipo entre el cliente y los desarrolladores mediante una comunicacion casi diaria para evitar errores y documentacion innecesaria",
+        "Opciones_D": "todos los incisos",
+        "Opciones_E": "ninguno",
+        "Pregunta": "¿Cuales son algunas de las ventajas de una metodologia agil que se puede observar en la elaboracion de proyectos?"
+    },
+    {
+        "Id_Pregunta": 2166297,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Nuestra mayor prioridad es satisfacer al jefe de proyecto mediante la entrega temprana y continua del software",
+        "Opciones_B": "Los proyectos se desarrollan en torno a individuos motivados.Hay que darles el entorno y el apoyo que necesitan y confiarles la ejecucion del trabajo",
+        "Opciones_C": "Los responsables del negocio y los desarrolladores trabajan juntos de forma cotidiana durante todo el proyecto",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿cuales de estos incisos no pertenece a uno de los 12 principios del manifiesto agil?"
+    },
+    {
+        "Id_Pregunta": 2166298,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "iteraciones,sprints",
+        "Opciones_B": "ciclos,sprints",
+        "Opciones_C": "iteraciones,ciclos",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Complete el siguiente enunciado:\"Scrum al ser una metodologia de desarrollo agil tiene como base la idea de creacion de ciclos breves para el desarrollo, que comunmente se llaman ___ y que en scrum se llamaran ___."
+    },
+    {
+        "Id_Pregunta": 2166299,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Analizar y Modelar",
+        "Opciones_B": "Observar y Ejecutar",
+        "Opciones_C": "Analizar y Ejecutar",
+        "Opciones_D": "Observar y Modelar",
+        "Opciones_E": null,
+        "Pregunta": "La dinámica de sistemas es una metodología para:"
+    },
+    {
+        "Id_Pregunta": 2166300,
+        "Opcion_Correcta": "E",
+        "Opciones_A": "Una organización se alimenta de información.",
+        "Opciones_B": "Organización es toda información pertinente, vital y necesaria.",
+        "Opciones_C": "Organización es una estructura que tiene propios niveles de información.",
+        "Opciones_D": "Organización es una estructuración por niveles jerárquicos y no todos toman la misma información.",
+        "Opciones_E": "Todos los incisos",
+        "Pregunta": "Tener bastante información no implica que estemos organizados, información es solo el insumo de la organización, entonces cuando hablamos de organización se refiere a:"
+    },
+    {
+        "Id_Pregunta": 2166301,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Entropía de Shannon",
+        "Opciones_B": "Entropía de Sharp",
+        "Opciones_C": "Entropía de Shonn",
+        "Opciones_D": "Ninguna",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione el otro nombre de entropía informática:"
+    },
+    {
+        "Id_Pregunta": 2166302,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Entrada, salida, proceso, ambiente y retroalimentación",
+        "Opciones_B": "Entrada, salida y ambiente",
+        "Opciones_C": "Entrada, salida y retroalimentación",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Seleccione cuáles componentes pertenecen a un sistema:"
+    },
+    {
+        "Id_Pregunta": 2166303,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Las entradas",
+        "Opciones_B": "Las salidas",
+        "Opciones_C": "El proceso",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A cuál de estos componentes pertenece este concepto?: ____ son los elementos de que el sistema puede disponer para su propio provecho."
+    },
+    {
+        "Id_Pregunta": 2166304,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Humanismo científico, información",
+        "Opciones_B": "Humanismo científico, sociedad",
+        "Opciones_C": "Fundamento humano, humanidad",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿Cuáles son las dos palabras que completan correctamente la siguiente definición?: La TGS tiene su base en el ____, ya que no es posible ningún cambio tecnológico sin la base de la especie humana, que fundamenta todos los cambios y productos de la era de la ___ y la tecnología."
+    },
+    {
+        "Id_Pregunta": 2166305,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Teoría general de sistemas",
+        "Opciones_B": "Análisis general",
+        "Opciones_C": "Análisis de sistemas",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Completar: ___ es una herramienta que permite la explicación de los fenómenos que suceden en la realidad y que permite hacer posible la predicción de la conducta futura de esa realidad, a través del análisis de las totalidades y las interacciones internas de estas y las externas con su medio."
+    },
+    {
+        "Id_Pregunta": 2166306,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Interdisciplinario",
+        "Opciones_B": "Parainterdisciplinario",
+        "Opciones_C": "De las ciencias de la computación",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "La teoría general de sistemas o teoría de sistemas o enfoque sistémico es un esfuerzo de estudio:"
+    },
+    {
+        "Id_Pregunta": 2166307,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "Teleología, equifinalidad, adaptación, retroacción, información, importancia de energía, entropía y homeostasis",
+        "Opciones_B": "Teleología, equifinalidad, adaptación, retroacción, información y homeostasis",
+        "Opciones_C": "Teleología, adaptación, retroacción, información y homeostasis",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "Las características de un sistema son:"
+    },
+    {
+        "Id_Pregunta": 2166308,
+        "Opcion_Correcta": "A",
+        "Opciones_A": "La Teleología",
+        "Opciones_B": "La Adaptación",
+        "Opciones_C": "El Homeostasis",
+        "Opciones_D": null,
+        "Opciones_E": null,
+        "Pregunta": "¿A qué característica de un sistema pertenece este concepto?: ___ en la teoría general de sistemas se refiere a toda orientación que cualquier sistema abierto posee con respecto a sus procesos. Es decir, que cualquier proceso está encaminado a unos objetivos, a unas finalidades."
+    },
+    {
+        "Id_Pregunta": 2166309,
+        "Opcion_Correcta": "B",
+        "Opciones_A": "Es un valor que permanece dentro de una función",
+        "Opciones_B": "Es un valor que cambia en un determinado proceso y/o tiempo",
+        "Opciones_C": "Es un valor que no cambia en un determinado tiempo",
+        "Opciones_D": "Es un valor que cambia en un determinado proceso",
+        "Opciones_E": null,
+        "Pregunta": "Seleccione el concepto correcto de valor variable:"
+    }
+]

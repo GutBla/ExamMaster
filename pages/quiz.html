@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionario</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Cuestionario</h1>
+    </header>
+    <main>
+        <div id="quiz-container">
+            <p id="quiz-question">Pregunta</p>
+            <p id="question-counter">Pregunta 1 de 20</p> 
+            <div id="quiz-options"></div>
+            <button id="next-question-btn" onclick="nextQuestion()">Siguiente</button>
+        </div>
+        <div id="quiz-score" style="display: none;">
+            <h2>Resultado Final</h2>
+            <p id="score"></p>
+            <p id="incorrect-count"></p>
+        </div>
+    </main>
+
+    <!-- Modal de respuesta correcta/incorrecta -->
+    <div id="response-modal" style="display: none;">
+        <div id="modal-content">
+            <p id="modal-text"></p>
+            <button onclick="closeModal()">Cerrar</button>
+        </div>
+    </div>
+
+    <script src="../static/js/data.js"></script>
+    <script src="../static/js/script.js"></script>
+</body>
+</html>

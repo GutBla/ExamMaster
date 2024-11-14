@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcards</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Flashcards</h1>
+    </header>
+    <main>
+        <div id="flashcard-container">
+            <div id="flashcard" class="flashcard" onclick="showAnswer()">
+                <p id="flashcard-question">Pregunta</p>
+                <p id="flashcard-counter">1 / 20</p>
+                <div id="flashcard-answer" class="modal" style="display: none;">
+                    <p>Respuesta</p>
+                </div>
+            </div>
+            <div class="navigation">
+                <button onclick="previousFlashcard()">Atrás</button>
+                <button onclick="nextFlashcard()">Siguiente</button>
+            </div>
+        </div>
+    </main>
+    <script src="../static/js/data.js"></script>
+    <script src="../static/js/script.js"></script>
+</body>
+</html>
+
